@@ -1,18 +1,27 @@
 <details>
 <summary>Buttons Breakdown</summary>
-Buttons to rely on!
-
-<details>
-<summary>Neutral</summary>
+## Neutral
+You can press a lot of buttons
 - f.s
   - no combo! (tatami if tethered!)
   - counterhit combos into Kibari
+- 5H
+  - Slower than f.s but slightly disjointed
+  - combos into Kibari
 - c.s
+  - combos into 5H > Kibari
+  - can be used to start a schmixup on block
 - 2HS (Unsafe)
+  - combos into Kibari
 - Kibari (H or S)
-- j.s
-- f.p (*ANTIAIR*)
-</details>
+- j.s > 
+- 
+## Defensive
+  On wakeup or When being rushed on
+  
+## Offensive
+  Opponent wakeup or punishes
+
 </details>
 
 <details># GETTEM BOI
