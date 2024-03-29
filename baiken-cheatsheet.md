@@ -1,4 +1,6 @@
-# Buttons & Combos
+<details>
+<summary>Buttons Breakdown</summary>
+
 ## buttons time
 ### neutral
 - f.s
@@ -9,12 +11,13 @@
 - Kibari (H or S)
 - j.s
 - f.p (*ANTIAIR*)
+</details>
 
-# GETTEM BOI
+<details># GETTEM BOI
 ## Punish:
   Standing/Blocking = c.S > 5H > 41236H~H 
   IF DASHING = c.s > f.s > 5h > 41236~H
-
+</details>
 
 ## Gameplan:
 ### Press button recieve damage
