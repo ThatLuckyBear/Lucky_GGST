@@ -1,3 +1,15 @@
+# Buttons & Combos
+## buttons time
+### neutral
+- f.s
+  - no combo! (tatami if tethered!)
+  - counterhit combos into Kibari
+- c.s
+- 2HS (Unsafe)
+- Kibari (H or S)
+- j.s
+- f.p (*ANTIAIR*)
+
 # GETTEM BOI
 ## Punish:
   Standing/Blocking = c.S > 5H > 41236H~H 
@@ -5,11 +17,8 @@
 
 
 ## Gameplan:
-### Press these buttons in neutral:
-f.s
-c.s
-2HS (DANGER)
-Kibari (H or S)
+### Press button recieve damage
+If opponent is tethered tatami after landing a poke
 
 
 [1]
