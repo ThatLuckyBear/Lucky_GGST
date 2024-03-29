@@ -1,8 +1,9 @@
 <details>
 <summary>Buttons Breakdown</summary>
+Buttons to rely on!
 
-## buttons time
-### neutral
+<details>
+<summary>Neutral</summary>
 - f.s
   - no combo! (tatami if tethered!)
   - counterhit combos into Kibari
@@ -11,6 +12,7 @@
 - Kibari (H or S)
 - j.s
 - f.p (*ANTIAIR*)
+</details>
 </details>
 
 <details># GETTEM BOI
