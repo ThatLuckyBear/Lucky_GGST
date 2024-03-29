@@ -15,9 +15,10 @@ You can press a lot of buttons
   - combos into Kibari
 - Kibari (H or S)
 - j.s > YOUZ
-- 
+- j.HS
 ## Defensive
   On wakeup or When being rushed on
+- 5p is the fastest button (4 frames)
   
 ## Offensive
   Opponent wakeup or punishes
