@@ -14,7 +14,7 @@ You can press a lot of buttons
 - 2HS (Unsafe)
   - combos into Kibari
 - Kibari (H or S)
-- j.s > 
+- j.s > YOUZ
 - 
 ## Defensive
   On wakeup or When being rushed on
