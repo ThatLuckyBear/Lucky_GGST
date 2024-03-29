@@ -1,10 +1,15 @@
 # GETTEM BOI
-Punish:
+## Punish:
   Standing/Blocking = c.S > 5H > 41236H~H 
-  IF DASHING
+  IF DASHING = c.s > f.s > 5h > 41236~H
 
-High Low schmix-ups:
-When landing 5K or c.S (close S)
+
+## Gameplan:
+### Press these buttons in neutral:
+f.s
+c.s
+2HS (DANGER)
+Kibari (H or S)
 
 
 [1]
