@@ -1,6 +1,6 @@
 <details>
 <summary>Buttons Breakdown</summary>
-## Neutral
+<h2>Neutral</h2>
 You can press a lot of buttons
   
 - f.s
@@ -17,11 +17,11 @@ You can press a lot of buttons
 - Kibari (H or S)
 - j.s > YOUZ
 - j.HS
-7Defensive
+<h2>Defensive</h2>
   On wakeup or When being rushed on
 - 5p is the fastest button (4 frames)
   
-## Offensive
+<h2>Offensive</h2>
   Opponent wakeup or punishes
 
 </details>
