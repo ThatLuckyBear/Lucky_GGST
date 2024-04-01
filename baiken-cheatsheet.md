@@ -1,7 +1,8 @@
 <details>
 <summary>Buttons Breakdown</summary>
-## Neutral
+<h1>Neutral</h1>
 You can press a lot of buttons
+  
 - f.s
   - no combo! (tatami if tethered!)
   - counterhit combos into Kibari
@@ -16,7 +17,7 @@ You can press a lot of buttons
 - Kibari (H or S)
 - j.s > YOUZ
 - j.HS
-## Defensive
+7Defensive
   On wakeup or When being rushed on
 - 5p is the fastest button (4 frames)
   
