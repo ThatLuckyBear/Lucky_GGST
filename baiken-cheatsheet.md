@@ -1,6 +1,6 @@
 <details>
 <summary>Buttons Breakdown</summary>
-<h1>Neutral</h1>
+## Neutral
 You can press a lot of buttons
   
 - f.s
