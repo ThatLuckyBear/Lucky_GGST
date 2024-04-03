@@ -1,8 +1,7 @@
-<details>
-<summary>Buttons Breakdown</summary>
+Buttons Breakdown
   
 Neutral
-You can press a lot of buttons  
+You can press a lot of buttons 
 - f.s
   - no combo! (tatami if tethered!)
   - counterhit combos into Kibari
@@ -18,14 +17,13 @@ You can press a lot of buttons
 - j.s > YOUZ
 - j.HS
 - 
-<h2>Defensive</h2>
+Defensive
   On wakeup or When being rushed on
 - 5p is the fastest button (4 frames)
   
-<h2>Offensive</h2>
+Offensive
   Opponent wakeup or punishes
 
-</details>
 
 <details># GETTEM BOI
 ## Punish:
@@ -38,5 +36,5 @@ You can press a lot of buttons
 If opponent is tethered tatami after landing a poke
 
 
-[1]
-[2] how to markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+no boilerplate beautiful markdown to steal: 
