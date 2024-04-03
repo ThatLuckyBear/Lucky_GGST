@@ -1,3 +1,5 @@
+help: https://www.reddit.com/r/Guiltygear/comments/tz5xed/need_help_learning_baiken_in_strive/
+
 Buttons Breakdown
   
 Neutral
