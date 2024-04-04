@@ -3,6 +3,14 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
 
 if you're really close to opponent c.S and 2S combo into > 2h > kibari
 
+## Essential Combos:
+Tatami > 2S > Kibari
+{COUNTER} f.S > 2H > Tatami > 2S > Kibari
+- reactable to Counterhit don't just press buttons.
+{Touching or Dashing} c.S > 2H > Tatami > 2S > Kibari
+2S > 2H > Tatami > 2S > Kibari
+2K > 2D > Tatami > 2S > Kibari
+
 
 Buttons Breakdown
   
