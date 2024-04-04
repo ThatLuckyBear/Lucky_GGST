@@ -1,6 +1,9 @@
 help: https://www.reddit.com/r/Guiltygear/comments/tz5xed/need_help_learning_baiken_in_strive/
 https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combos_or_openers_for/
 
+if you're really close to opponent c.S and 2S combo into > 2h > kibari
+
+
 Buttons Breakdown
   
 Neutral
@@ -10,7 +13,7 @@ You can press a lot of buttons
   - can be used to start a schmixup on block
 - f.s
   - no combo! (tatami if tethered!)
-  - counterhit combos into Kibari
+  - counterhit combos into 2H > Kibari + followup
 - 5H
   - Slower than f.s but slightly disjointed
   - combos into Kibari
