@@ -12,6 +12,9 @@ c.S > 2H > Tatami > 2S > Kibari {true}
 {COUNTER} f.S > 2H > Tatami > 2S > Kibari
 - reactable to Counterhit don't just press buttons.
 {COUTNER} 2S > 2H > Tatami > 2S > Kibari
+- not at max distance but pretty far low crush
+- great for when opponents are threatening with dash
+- free air dash combo if you overextend
 2K > 2D > Tatami > f.S
 - low combo
 - replace f.S with super for damage
