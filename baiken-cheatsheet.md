@@ -5,11 +5,16 @@ if you're really close to opponent c.S and 2S combo into > 2h > kibari
 
 ## Essential Combos:
 Tatami > 2S > Kibari
+- when tethered every button combos into this
+- tags onto the end of most combos 
+c.S > 2H > Tatami > 2S > Kibari {true}
+- need to be SO close but it works great
 {COUNTER} f.S > 2H > Tatami > 2S > Kibari
 - reactable to Counterhit don't just press buttons.
-{Touching or Dashing} c.S > 2H > Tatami > 2S > Kibari
-2S > 2H > Tatami > 2S > Kibari
-2K > 2D > Tatami > 2S > Kibari
+{COUTNER} 2S > 2H > Tatami > 2S > Kibari
+2K > 2D > Tatami > f.S
+- low combo
+- replace f.S with super for damage
 
 
 Buttons Breakdown
