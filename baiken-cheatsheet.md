@@ -21,6 +21,8 @@ c.S > 2H > Tatami > 2S > Kibari {true}
 - low combo
 - replace f.S with super for damage
 
+Crossup YOUZ > Kibari
+- airdash YOUZ is kinda free and it ground bounces on crossup
 
 Buttons Breakdown
   
@@ -28,7 +30,10 @@ Neutral
 You can press a lot of buttons 
 - c.s
   - combos into 5H > Kibari
-  - can be used to start a schmixup on block
+  - jump cancels on block or hit for schmixin
+    - empty jump low/throw
+    - crossup YOUZ (Forward jump) **TEST**
+    - front YOUZ or j.H (neutral jump) **TEST**
 - f.s
   - no combo! (tatami if tethered!)
   - counterhit combos into 2H > Kibari + followup
