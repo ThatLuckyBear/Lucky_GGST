@@ -2,10 +2,9 @@ help: https://www.reddit.com/r/Guiltygear/comments/tz5xed/need_help_learning_bai
 https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combos_or_openers_for/
 
 <details>
-<h1>Trouble Spots</h1>
-  <li> wakeup timing???
-    
-  </li>
+  <summary>Trouble Spots</summary>
+  <li>wakeup timing??? wakeup super and counter are not working. Strict buffer?</li>
+  <li>combos are hard</li>
 </details>
 
 ## Essential Combos:
