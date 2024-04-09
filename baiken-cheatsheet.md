@@ -1,6 +1,13 @@
 help: https://www.reddit.com/r/Guiltygear/comments/tz5xed/need_help_learning_baiken_in_strive/
 https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combos_or_openers_for/
 
+<details>
+<h1>Trouble Spots</h1>
+  <li> wakeup timing???
+    
+  </li>
+</details>
+
 ## Essential Combos:
 Tatami > 2S > Kibari
 - when tethered every button combos into this
