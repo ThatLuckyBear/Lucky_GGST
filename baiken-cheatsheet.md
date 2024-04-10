@@ -28,6 +28,9 @@ c.S > 2H > Tatami > 2S > Kibari {true}
 Crossup YOUZ > Kibari
 - airdash YOUZ is kinda free and it ground bounces on crossup
 
+## Silly combos
+IAS YOUZ > pistol super > 2k > sword Super
+
 Buttons Breakdown
   
 Neutral
