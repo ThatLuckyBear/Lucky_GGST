@@ -10,6 +10,10 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <li>stray hit conversion</li>
 </details>
 
+## Working on anti air
+6P does notcombo without counter
+
+
 ## Essential Combos:
 Tatami > 2S > Kibari
 - when tethered every button combos into this
