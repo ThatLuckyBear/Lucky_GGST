@@ -6,6 +6,8 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <summary>Trouble Spots</summary>
   <li>wakeup timing??? wakeup super and counter are not working. Strict buffer?</li>
   <li>combos are hard</li>
+  <li>anti air combos</li>
+  <li>stray hit conversion</li>
 </details>
 
 ## Essential Combos:
