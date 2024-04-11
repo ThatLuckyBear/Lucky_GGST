@@ -1,5 +1,6 @@
 help: https://www.reddit.com/r/Guiltygear/comments/tz5xed/need_help_learning_baiken_in_strive/
 https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combos_or_openers_for/
+https://replaytheater.app/?game=strive
 
 <details>
   <summary>Trouble Spots</summary>
