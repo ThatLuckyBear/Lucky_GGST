@@ -11,7 +11,7 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
 </details>
 
 ## Working on anti air
-When doing anti air always input the kibari until you can confirm well.
+When doing the 6p input the kibari with delay input the QCF twice and press HS on the second.
 - 6P does notcombo without counter
 - (HIGH UP) 6p > Kibari (first hit) > 2k > Sword Super
 - (LOW DOWN) 6p > Kibari (both hits) > RRC > Sword Super
