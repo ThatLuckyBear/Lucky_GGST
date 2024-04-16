@@ -31,7 +31,7 @@ c.S > 2H > Tatami > 2S > Kibari {true}
 - free air dash combo if you overextend
   
 2K > 2D > Tatami > f.S
-- low combo
+- low combo confirm (2D is unsafe so check your hits)
 - replace f.S with super for damage
 
 Crossup YOUZ > Kibari
