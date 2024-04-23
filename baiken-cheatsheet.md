@@ -9,6 +9,7 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <li>anti air combos</li>
   <li>stray hit conversion</li>
   <li>confirm off 5P</li>
+  <li>learn safejump and pressure setups</li>
 </details>
 
 ## Working on anti air
