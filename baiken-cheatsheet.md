@@ -18,6 +18,11 @@ When doing the 6p input the kibari with delay input the QCF twice and press HS o
 - (HIGH UP) 6p > Kibari (first hit) > 2k > Sword Super
 - (LOW DOWN) 6p > Kibari (both hits) > RRC > Sword Super
 
+## Working on safejump
+Tatami > IAD > HS is a safejump and I think 100% of the time?? I need to check.
+- Block? Punish with 6S and do tatami loop
+- Hit with HS? IDK what to do yet!!
+
 ## Essential Combos:
 Tatami > 2S > Kibari
 - when tethered every button combos into this
