@@ -3,13 +3,13 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
 [https://replaytheater.app/?game=strive](https://replaytheater.app/?game=strive&c1=Baiken)
 
 <details>
-  <summary>Trouble Spots</summary>
+  <summary>Practice These</summary>
   <li>wakeup timing??? wakeup super and counter are not working. Strict buffer?</li>
-  <li>combos are hard</li>
-  <li>anti air combos</li>
+  <li>anti air 6P (1f) HS.Kibari </li>
   <li>stray hit conversion</li>
   <li>confirm off 5P</li>
   <li>learn safejump and pressure setups</li>
+  <li>coutner hit combos off 2S, c.S, and f.S</li>
 </details>
 
 ## Working on anti air
