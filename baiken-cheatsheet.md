@@ -10,6 +10,7 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <li>confirm off 5P</li>
   <li>learn safejump and pressure setups</li>
   <li>coutner hit combos off 2S, c.S, and f.S</li>
+  <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled?</li>
 </details>
 
 ## Working on anti air
@@ -85,6 +86,9 @@ Combos:
   IF DASHING = c.s > f.s > 5h > 41236~H
 
 ## Gameplan:
+f.s is great in neutral and leads to 2HS > Kibari on counter hit
+after tatami safejump is IAD > HS
+after Kibari safejump is IAD > Tatami
 
 ## Practice:
 - Mixup
