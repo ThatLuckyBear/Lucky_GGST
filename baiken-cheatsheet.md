@@ -11,6 +11,8 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <li>learn safejump and pressure setups</li>
   <li>coutner hit combos off 2S, c.S, and f.S</li>
   <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled?</li>
+  <li>when you jump attack with dash speed you end up in throw range</li>
+
 </details>
 
 ## Working on anti air
