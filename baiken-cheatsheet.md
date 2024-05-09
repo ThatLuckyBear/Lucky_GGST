@@ -104,8 +104,12 @@ after Kibari safejump is IAD > Tatami
 - Frame Traps
 - Poke conversion (into tether or other)
 - Anti Air (especially crossups!)
+- 
 ### Press button recieve damage
 If opponent is tethered tatami after landing a poke
+if you hit j.s you can confirm to j.d 
+if you air throw into the corner: 
+[rrc] or [prc] j.s > j.d > 66 > j.s > j.d > YOUZ > WS > J.D (162) --- dont hold forward on the last hit you'll do an air throw (gatling doesn't allow airthrow to come out so it's easy to do by mistake)
 
 
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
