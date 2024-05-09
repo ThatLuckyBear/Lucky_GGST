@@ -25,6 +25,11 @@ When doing the 6p input the kibari with delay input the QCF twice and press HS o
 Tatami > IAD > HS is a safejump and I think 100% of the time?? I need to check.
 - Block? Punish with 6S and do tatami loop
 - Hit with HS? IDK what to do yet!!
+HS Kibari + followup > IAD Tatami
+- invincible moves will beat you if you mash
+- confirm block before schmix
+- if blocked c.s into high low
+- if hit go into c.s > h.S > Kibari or cs. > 6k > tatami for more pressure
 
 ## Essential Combos:
 Tatami > 2S > Kibari
