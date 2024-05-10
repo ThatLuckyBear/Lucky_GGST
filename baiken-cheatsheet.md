@@ -113,10 +113,36 @@ if you air throw into the corner:
 
 
 ## Matchups
+## Bridget
+monster lots of high low and command throw mixups but there are definitely holes in offense.
+
+
 ## happy chaos
 this duuuude shoots you a lot and has a schmixup game. It's hard to find holes but there are ways of getting through.
 if you have been hit with the stinky bomb then the bullets will autotrack super hard
 if you're not stinky you can jump or run through since they have to "aim" the shot - mix it up
+
+## millia
+use 5p in scrambles and confirm into pressure
+her buttons are crazy and you cant tell if shes left or right so uhhhh don't guess just press jab or block
+
+## chipp
+hes gonna getcha. not matter how far he looks he can hit you 100%
+is he left or right? DUNNO!! LOL!!
+confirms are abosolutely essential
+when in the corner he can crossup easily
+hes squishy but has guts so he can hang on sometimes when health is low, go for bigger damage combos just to be sure
+tatami helps a lot but it isn't a cure all
+he has a directly straight down dive kick so don't challenge him without purpose
+if hes invisible you can hit him but dont risk it for the buscuit
+counter is useless on wakeup but good during block strings (alpha blade cannot be countered)
+When does his turn end?
+- when he does X?
+
+# Potempkin
+always burst after garuda hits or you eat a pot buster
+never jump unless absolutely necessary
+you can react and do a counter when he does meaty garuda usually
 
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 no boilerplate beautiful markdown to steal: 
