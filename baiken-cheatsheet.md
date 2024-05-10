@@ -112,5 +112,11 @@ if you air throw into the corner:
 [rrc] or [prc] j.s > j.d > 66 > j.s > j.d > YOUZ > WS > J.D (162) --- dont hold forward on the last hit you'll do an air throw (gatling doesn't allow airthrow to come out so it's easy to do by mistake)
 
 
+## Matchups
+## happy chaos
+this duuuude shoots you a lot and has a schmixup game. It's hard to find holes but there are ways of getting through.
+if you have been hit with the stinky bomb then the bullets will autotrack super hard
+if you're not stinky you can jump or run through since they have to "aim" the shot - mix it up
+
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 no boilerplate beautiful markdown to steal: 
