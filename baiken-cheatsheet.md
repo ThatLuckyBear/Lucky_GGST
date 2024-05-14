@@ -15,6 +15,18 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
 
 </details>
 
+## Working on Kara Kibari
+5k to kibari after the basic 5p punish combo is possible but very hard
+
+Cancel the 5k with a dash (66) and cancel the dash with Kibari (41236.HS)
+
+tips:
+holding forward (6) and HS makes it easier to execute the kibari
+you have to hit the 5k early but insert a small gap between the 5k and the dash
+plinking the dash into the kibari (HS) is the best method but hard to do with the layout (Dash is below HS)
+It's hard to know if you're doing it right. I don't know what indicators I'm looking for but here are a few I've noticed:
+- there is a bit of a dust or flash at the feet when the dash starts. I see VERY little of this flash when successful but it's always there.
+
 ## Working on anti air
 When doing the 6p input the kibari with delay input the QCF twice and press HS on the second.
 - 6P does notcombo without counter
