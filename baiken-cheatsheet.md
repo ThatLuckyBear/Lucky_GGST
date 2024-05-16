@@ -134,6 +134,18 @@ this duuuude shoots you a lot and has a schmixup game. It's hard to find holes b
 if you have been hit with the stinky bomb then the bullets will autotrack super hard
 if you're not stinky you can jump or run through since they have to "aim" the shot - mix it up
 
+## ky kiske
+fuck this guy hes so fast and jsut does whatever he wants. 
+if close you can wakeup super his charged up fireballs
+if hes doing air fireballs you can run under it if you notice soon enough
+if he gets hit the fireballs go away 
+flip klic beats everything and will catch neautral jump
+if you get hit with basically anything for blockstun you cannot get away
+you can't do air tatami without a backdash becaue he can run in and anti air for a counterhit combo
+kibari in neutral is good but cant be relied on
+2HS can be counterhit very easily so beware 
+when getting super smashed through the wall you cannot 2p the incoming ariel (i know i can fucking parry it but I got caught anyway... execution probably.)
+
 ## millia
 use 5p in scrambles and confirm into pressure
 her buttons are crazy and you cant tell if shes left or right so uhhhh don't guess just press jab or block
@@ -150,6 +162,12 @@ if hes invisible you can hit him but dont risk it for the buscuit
 counter is useless on wakeup but good during block strings (alpha blade cannot be countered)
 When does his turn end?
 - when he does X?
+
+## ino
+when note pressure is in play you can definitely parry some of the options but others are true block strings 
+ino seems to be able to throw on the meaty setup off 5p>6k>TATAMI but IDK why (test)
+- - after testing I immediately got a counterhit which is uHHHHh interesting? IDK what I'm doing wrong in match.
+
 
 # Potempkin
 always burst after garuda hits or you eat a pot buster
