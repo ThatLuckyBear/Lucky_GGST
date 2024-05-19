@@ -172,6 +172,7 @@ ino seems to be able to throw on the meaty setup off 5p>6k>TATAMI but IDK why (t
 
 
 # Potempkin
+when he does drive rush you can probably counter the second hit with delay (test)
 always burst after garuda hits or you eat a pot buster
 never jump unless absolutely necessary
 you can react and do a counter when he does meaty garuda usually
