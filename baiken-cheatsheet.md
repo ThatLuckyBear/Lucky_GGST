@@ -56,7 +56,8 @@ c.S > 2H > Tatami > 2S > Kibari {true}
 - reactable to Counterhit don't just press buttons.
 
 {COUNTER} 2S > 2H > Kibari
-- free air dash combo if you overextend
+- IAD > tatami is a safejump if timed correctly (not hard)
+- if you overextend with c.s you can get hit with invincible wakeup moves so blocking is a good idea mix it up
   
 2K > 2D > Tatami > f.S
 - low combo confirm (2D is unsafe so check your hits)
