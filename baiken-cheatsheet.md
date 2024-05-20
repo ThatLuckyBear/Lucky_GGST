@@ -188,6 +188,13 @@ kibari in neutral is good but cant be relied on
 2HS can be counterhit very easily so beware 
 when getting super smashed through the wall you cannot 2p the incoming ariel (i know i can fucking parry it but I got caught anyway... execution probably.)
 
+## may
+overwhelming in the right hands 
+important to know when to press buttons 
+kibari works to shut down some rushdown but it's limited since she can approach easily from the sky
+2S is sometimes solid when both on ground but limited
+CONSTANT high low, every approach is another mixup so don't sleep (downback and react high?)
+
 ## millia
 use 5p in scrambles and confirm into pressure
 her buttons are crazy and you cant tell if shes left or right so uhhhh don't guess just press jab or block
