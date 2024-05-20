@@ -28,6 +28,8 @@ It's hard to know if you're doing it right. I don't know what indicators I'm loo
 - there is a bit of a dust or flash at the feet when the dash starts. I see VERY little of this flash when successful but it's always there.
 if I mash the HS for the second hit of Kibari it will whiff, just react and it will be fine the window is really big.
 
+
+
 ## Working on anti air
 When doing the 6p input the kibari with delay input the QCF twice and press HS on the second.
 - 6P does notcombo without counter
@@ -128,6 +130,13 @@ if you air throw into the corner:
 
 ## Matchups
 
+## anji
+it's insanely hard to time wakeup counter because hes so wonky,
+his blockstrings are really tight so theres almost no space to counter
+you gotta hold the block string and reversal (5p) when you can
+air fan doesnt have a hitbox in air so jump to punish
+
+
 ## Bedman
 2HS gets blown up becaues they can covert easily from ariel attacks
 there are definitely holes in block strings to mash 5p but they need to be labbed (test)
@@ -148,10 +157,24 @@ counter is useless on wakeup but good during block strings (alpha blade cannot b
 When does his turn end?
 - when he does X?
 
+## faust
+his anti air 6p hits low enough to counterhit 2HS soooo you cant low profile it to punish a bad aa guess
+
+## Goldlewis
+deceptively long range
+can delay meaty, very tricky to counter
+seeming has limited wakeup options (test)
+
 ## happy chaos
 this duuuude shoots you a lot and has a schmixup game. It's hard to find holes but there are ways of getting through.
 if you have been hit with the stinky bomb then the bullets will autotrack super hard
 if you're not stinky you can jump or run through since they have to "aim" the shot - mix it up
+
+## ino
+when note pressure is in play you can definitely parry some of the options but others are true block strings 
+ino seems to be able to throw on the meaty setup off 5p>6k>TATAMI but IDK why (test)
+- - after testing I immediately got a counterhit which is uHHHHh interesting? IDK what I'm doing wrong in match.
+
 
 ## ky kiske
 fuck this guy hes so fast and jsut does whatever he wants. 
@@ -168,13 +191,6 @@ when getting super smashed through the wall you cannot 2p the incoming ariel (i 
 ## millia
 use 5p in scrambles and confirm into pressure
 her buttons are crazy and you cant tell if shes left or right so uhhhh don't guess just press jab or block
-
-
-
-## ino
-when note pressure is in play you can definitely parry some of the options but others are true block strings 
-ino seems to be able to throw on the meaty setup off 5p>6k>TATAMI but IDK why (test)
-- - after testing I immediately got a counterhit which is uHHHHh interesting? IDK what I'm doing wrong in match.
 
 
 # Potempkin
