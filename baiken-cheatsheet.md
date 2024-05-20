@@ -203,6 +203,7 @@ her buttons are crazy and you cant tell if shes left or right so uhhhh don't gue
 # Potempkin
 when he does drive rush you can probably counter the second hit with delay (test)
 always burst after garuda hits or you eat a pot buster
+even if you 
 never jump unless absolutely necessary
 you can react and do a counter when he does meaty garuda usually
 you cannot go under mega fisto with 2HS
