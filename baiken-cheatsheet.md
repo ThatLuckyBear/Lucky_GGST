@@ -205,6 +205,7 @@ when he does drive rush you can probably counter the second hit with delay (test
 always burst after garuda hits or you eat a pot buster
 never jump unless absolutely necessary
 you can react and do a counter when he does meaty garuda usually
+you cannot go under mega fisto with 2HS
 
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 no boilerplate beautiful markdown to steal: 
