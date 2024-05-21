@@ -54,8 +54,12 @@ HS Kibari + followup > IAD Tatami
 - if hit go into c.s > h.S > Kibari or cs. > 6k > tatami for more pressure
 
 ## working on mixup from c.s
--- High
---- 
+## High = Youz
+- cannot combo without roman cancel
+- take a healthy delay before TK.YOUZ, c.s hitstun is legendary but the gatling to f.s threatens to steal your inputs
+- 66RRC will set you up for the combo (beware of burst!)
+- Combo: [2]369S > 66FRRC > j.H > jc > j.S > j.H > j.236K > c.S > 6H* > 41236H~H
+  - *use 2H instead of 6H if you end up near the corner
 
 ## Essential Combos:
 Tatami > 2S > Kibari
