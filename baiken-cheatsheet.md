@@ -7,17 +7,17 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <li>wakeup timing??? wakeup super and counter are not working. Strict buffer?</li>
   <li>anti air 6P (1f) HS.Kibari </li>
   <li>stray hit conversion</li>
-  <li>confirm off 5P</li>
   <li>learn safejump and pressure setups</li>
-  <li>coutner hit combos off 2S, c.S, and f.S</li>
+  <li>counter hit combos off j.HS, 2S, c.S, and f.S</li>
   <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled?</li>
   <li>when you jump attack with dash speed you end up in throw range</li>
+  <li>Jump D wallbounces, learn how to convert this to damage</li>
 
 </details>
 
 Feels safe but isn't
 - second hit of kibari can be interrupted, thrown, super'd and all that
-- 
+- the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
 
 ## Working on Kara Kibari
 5k to kibari after the basic 5p punish combo is possible but very hard
@@ -26,12 +26,15 @@ Cancel the 5k with a dash (66) and cancel the dash with Kibari (41236.HS)
 
 tips:
 holding forward (6) and HS makes it easier to execute the kibari
-you have to hit the 5k early but insert a small gap between the 5k and the dash
-plinking the dash into the kibari (HS) is the best method but hard to do with the layout (Dash is below HS)
-It's hard to know if you're doing it right. I don't know what indicators I'm looking for but here are a few I've noticed:
-- there is a bit of a dust or flash at the feet when the dash starts. I see VERY little of this flash when successful but it's always there.
-if I mash the HS for the second hit of Kibari it will whiff, just react and it will be fine the window is really big.
-
+you have to hit the 5k very soon after tatami but a small frame gap is needed between 5k and dash
+do not input the half circle until you've already pressed 5k, there's plenty of time and its easy to lose the buffer for kibari if you do it too early (hold HS!)
+plink isn't required and it works well just pressing the buttons with two fingers one after the other (holding HS after dash
+if mashing the HS for the second hit of Kibari it will whiff, just react and it will be fine the backend of the input window is way larger than the front.
+indicators of execution:
+- there is a bit of a dust or flash at the feet when the dash starts.
+- If you execute the dash cancel but don't do kibari you probably didn't hold HS and/or may have flubbed your half circle input
+- if the 5k doesn't come out you pressed it too quickly
+- if the dash cancel doesn't come out you pressed the dash too early (slight delay after 5k is necessary)
 
 
 ## Working on anti air
