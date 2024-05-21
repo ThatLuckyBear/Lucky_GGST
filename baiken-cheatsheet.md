@@ -156,6 +156,9 @@ his blockstrings are really tight so theres almost no space to counter
 you gotta hold the block string and reversal (5p) when you can
 air fan doesnt have a hitbox in air so jump to punish
 
+## aba
+if you block a close overhead you can punish with 5p but only on dookie mode
+
 
 ## Bedman
 2HS gets blown up becaues they can covert easily from ariel attacks
