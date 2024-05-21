@@ -15,6 +15,10 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
 
 </details>
 
+Feels safe but isn't
+- second hit of kibari can be interrupted, thrown, super'd and all that
+- 
+
 ## Working on Kara Kibari
 5k to kibari after the basic 5p punish combo is possible but very hard
 
@@ -45,6 +49,10 @@ HS Kibari + followup > IAD Tatami
 - confirm block before schmix
 - if blocked c.s into high low
 - if hit go into c.s > h.S > Kibari or cs. > 6k > tatami for more pressure
+
+## working on mixup from c.s
+-- High
+--- 
 
 ## Essential Combos:
 Tatami > 2S > Kibari
