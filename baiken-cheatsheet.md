@@ -21,6 +21,11 @@ Feels safe but isn't
 - second hit of kibari can be interrupted, thrown, super'd and all that
 - the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
 
+## working on c.s > IA.YOUZ
+after the c.s is blocked you need a long delay before YOUZ
+66RRC is realy really hard to do so i need a method to do it consistently
+
+
 ## Working on Kara Kibari
 5k to kibari after the basic 5p punish combo is possible but very hard
 
