@@ -153,13 +153,25 @@ if you air throw into the corner:
 ## Matchups
 
 ## anji
-it's insanely hard to time wakeup counter because hes so wonky,
+it's insanely hard to time wakeup counter because hes so wonky, (mash harder?)
 his blockstrings are really tight so theres almost no space to counter
 you gotta hold the block string and reversal (5p) when you can
 air fan doesnt have a hitbox in air so jump to punish
 
 ## aba
 if you block a close overhead you can punish with 5p but only on dookie mode
+
+## axl
+really tricky blockstrings make it hard to find gaps 
+guess if hes gonna go high or low and work within those parameters
+everything seems meaty from any distance so there isn't a lot you can do from afar on wakeup
+not advisable to use 2HS
+not advisable to use wakeup counter
+his jumpback swipey move will not bew caught by super (sword) so don't go for it.
+his spinny spin is safe once it ends punish during with kibari
+(test) try 6p against some stuff
+can punish a lot from long range since his normals are not disjointed!
+(test) followups from after his jump back thing might have a gap for counter 
 
 
 ## Bedman
