@@ -13,6 +13,7 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
   <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled?</li>
   <li>when you jump attack with dash speed you end up in throw range</li>
   <li>Jump D wallbounces, learn how to convert this to damage</li>
+  <li>jumping S into a combo on the ground for really low hits is essential (whiffing YOUZ)</li>
 
 </details>
 
