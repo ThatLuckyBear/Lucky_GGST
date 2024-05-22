@@ -4,6 +4,7 @@ https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combo
 
 <details>
   <summary>Practice These</summary>
+  <li>Roman cancel off a stray hit with jumping S/YOUZ/D</li>
   <li>wakeup timing??? wakeup super and counter are not working. Strict buffer?</li>
   <li>anti air 6P (1f) HS.Kibari </li>
   <li>stray hit conversion</li>
