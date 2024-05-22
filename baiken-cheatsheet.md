@@ -177,6 +177,8 @@ can punish a lot from long range since his normals are not disjointed!
 ## Bedman
 2HS gets blown up becaues they can covert easily from ariel attacks
 there are definitely holes in block strings to mash 5p but they need to be labbed (test)
+has a really nasty round start (6p maybe) that will destroy you if you jump but can be beat with 2HS
+
 
 ## Bridget
 monster lots of high low and command throw mixups but there are definitely holes in offense.
@@ -210,15 +212,25 @@ if you're not stinky you can jump or run through since they have to "aim" the sh
 ## ino
 when note pressure is in play you can definitely parry some of the options but others are true block strings 
 ino seems to be able to throw on the meaty setup off 5p>6k>TATAMI but IDK why (test)
-- - after testing I immediately got a counterhit which is uHHHHh interesting? IDK what I'm doing wrong in match.
+- after testing I immediately got a counterhit which is uHHHHh interesting? IDK what I'm doing wrong in match.
+if you cause a whiff on the ground slide stab you can't hit with an ariel ino will get you with an anti air counterhit
+ino does a really big wind up move in the air that causes a staggar state, can probably 6p on reaction while it charges? (test)
+might be able to 6p all over the place tbh idk.
+can you counterhit the slide stab? (test)
+
+## jacko
+can you punish their slide attack? (test)
+can't do anything when you're getting robotted 
 
 
 ## ky kiske
-fuck this guy hes so fast and jsut does whatever he wants. 
+fuck this guy hes so fast and just does whatever he wants. 
 if close you can wakeup super his charged up fireballs
 if hes doing air fireballs you can run under it if you notice soon enough
 if he gets hit the fireballs go away 
-flip klic beats everything and will catch neautral jump
+flip klic beats almost everything and will catch neautral jump
+- you can counter
+- you can 6p
 if you get hit with basically anything for blockstun you cannot get away
 you can't do air tatami without a backdash becaue he can run in and anti air for a counterhit combo
 kibari in neutral is good but cant be relied on
@@ -231,10 +243,13 @@ important to know when to press buttons
 kibari works to shut down some rushdown but it's limited since she can approach easily from the sky
 2S is sometimes solid when both on ground but limited
 CONSTANT high low, every approach is another mixup so don't sleep (downback and react high?)
+may has a big upswing that you CANNOT go under with 2HS (kibari)
+
 
 ## millia
 use 5p in scrambles and confirm into pressure
 her buttons are crazy and you cant tell if shes left or right so uhhhh don't guess just press jab or block
+might be weak to grabs on their pressure (test)
 
 
 # Potempkin
