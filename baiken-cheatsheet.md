@@ -22,8 +22,9 @@ Feels safe but isn't
 - the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
 
 ## working on c.s > IA.YOUZ
-after the c.s is blocked you need a long delay before YOUZ
-66RRC is realy really hard to do so i need a method to do it consistently
+after the blocked c.s input the YOUZ and hold up and forward delaying the S slightly to make YOUZ come out
+66RRC is realy really hard to do right now I'm doing 66 but dash 
+
 
 
 ## Working on Kara Kibari
