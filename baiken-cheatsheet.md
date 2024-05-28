@@ -24,6 +24,7 @@ Feels safe but isn't
 ## working on c.s > IA.YOUZ
 after the blocked c.s input the YOUZ and hold up and forward delaying the S slightly to make YOUZ come out
 66RRC is realy really hard to do right now I'm doing 66 but dash 
+you can use dash button by hitting P S HS and 66 at once but I;m scared of bursting? (test)
 
 
 
