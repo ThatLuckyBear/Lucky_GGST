@@ -26,6 +26,7 @@ after the blocked c.s input the YOUZ and hold up and forward delaying the S slig
 66RRC is realy really hard to do right now I'm doing 66 but dash 
 you can use dash button by hitting P S HS and 66 at once but I;m scared of bursting? (test)
 to stop super jump try holding down during the YOUZ (DOESNT WORK makes it worse because SCOD)
+if you delay the j.HS it seems to connect more. I don't know if I did 66RRC or just RRC but RRC seems easier 
 
 
 ## Working on Kara Kibari
