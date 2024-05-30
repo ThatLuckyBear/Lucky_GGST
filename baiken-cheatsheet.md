@@ -1,6 +1,5 @@
-help: https://www.reddit.com/r/Guiltygear/comments/tz5xed/need_help_learning_baiken_in_strive/
-https://www.reddit.com/r/Guiltygear/comments/tiymf1/what_are_some_good_bnb_combos_or_openers_for/
-[https://replaytheater.app/?game=strive](https://replaytheater.app/?game=strive&c1=Baiken)
+https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/edit
+
 
 <details>
   <summary>Practice These</summary>
