@@ -24,6 +24,13 @@ Feels safe but isn't
 if c.s is blocked delay the YOUZ to hit the mix
 hold up and forward and S to make it easier but this might make you super jump more
 
+Finalized Info:
+- Start: c.S is blocked and you are going to go high (youz)
+- delay .5~1f abnd input 9 (jump) as a tap
+-- this will buffer the jump and it will always come out
+- input 236S and trust the jump will handle it (don't press up or you'll super jump)
+- a second after it 
+
 To do 66RRC just press all the buttons.
 - If you're doing an attack the game will always prioritize roman cancel over burst so you won't do it by accident.
 - This requires a dash button be set and will always result in a forward moving RRC
