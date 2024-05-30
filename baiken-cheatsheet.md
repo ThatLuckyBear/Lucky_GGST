@@ -26,10 +26,12 @@ hold up and forward and S to make it easier but this might make you super jump m
 
 Finalized Info:
 - Start: c.S is blocked and you are going to go high (youz)
-- delay .5~1f abnd input 9 (jump) as a tap
+- delay .5~1f abnd input 9 (jump) as a tap (use left hand!)
 -- this will buffer the jump and it will always come out
-- input 236S and trust the jump will handle it (don't press up or you'll super jump)
-- a second after it 
+- input 236S following the 9 tap and give it a little rhythm to find the sweet spot 
+- youz goes here but i still dont know
+
+when buffering the jump use your left hand so all the movements 
 
 To do 66RRC just press all the buttons.
 - If you're doing an attack the game will always prioritize roman cancel over burst so you won't do it by accident.
