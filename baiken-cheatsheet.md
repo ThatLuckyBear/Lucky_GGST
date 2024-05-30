@@ -23,13 +23,16 @@ Feels safe but isn't
 ## working on c.s > IA.YOUZ
 if c.s is blocked delay the YOUZ to hit the mix
 hold up and forward and S to make it easier but this might make you super jump more
+
 To do 66RRC just press all the buttons.
 - If you're doing an attack the game will always prioritize roman cancel over burst so you won't do it by accident.
 - This requires a dash button be set and will always result in a forward moving RRC
+
 Roman Cancel
 - you need to do a FRC (fast roman cancel) to hit j.HS after the YOUZ
 - FRC requires you to cancel the roman cancel with a normal (j.HS) on the first frame or so of the cancel.
-- some routes also use BRC (blue roman cancel) but I have no idea how or why yet
+- some routes also use BRC (blue roman cancel) but I have no idea how or why yet (page 41 or so in the bible link at the top)
+
 the combo
 - https://streamable.com/w3cclh
 - learn this one first right now I'm still stuck at the FRC but I'll get there
