@@ -21,12 +21,18 @@ Feels safe but isn't
 - the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
 
 ## working on c.s > IA.YOUZ
-after the blocked c.s input the YOUZ and hold up and forward delaying the S slightly to make YOUZ come out
-66RRC is realy really hard to do right now I'm doing 66 but dash 
-you can use dash button by hitting P S HS and 66 at once but I;m scared of bursting? (test)
-to stop super jump try holding down during the YOUZ (DOESNT WORK makes it worse because SCOD)
-if you delay the j.HS it seems to connect more. I don't know if I did 66RRC or just RRC but RRC seems easier 
-
+if c.s is blocked delay the YOUZ to hit the mix
+hold up and forward and S to make it easier but this might make you super jump more
+To do 66RRC just press all the buttons.
+- If you're doing an attack the game will always prioritize roman cancel over burst so you won't do it by accident.
+- This requires a dash button be set and will always result in a forward moving RRC
+Roman Cancel
+- you need to do a FRC (fast roman cancel) to hit j.HS after the YOUZ
+- FRC requires you to cancel the roman cancel with a normal (j.HS) on the first frame or so of the cancel.
+- some routes also use BRC (blue roman cancel) but I have no idea how or why yet
+the combo
+- https://streamable.com/w3cclh
+- learn this one first right now I'm still stuck at the FRC but I'll get there
 
 ## Working on Kara Kibari
 5k to kibari after the basic 5p punish combo is possible but very hard
