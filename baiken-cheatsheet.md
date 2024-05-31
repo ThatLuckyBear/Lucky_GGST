@@ -24,12 +24,13 @@ Feels safe but isn't
 if c.s is blocked delay the YOUZ to hit the mix
 hold up and forward and S to make it easier but this might make you super jump more
 
-Finalized Info:
+How to do IA.YOUZ combo:
 - Start: c.S is blocked and you are going to go high (youz)
 - delay .5~1f abnd input 9 (jump) as a tap (use left hand!)
 -- this will buffer the jump and it will always come out
 - input 236S following the 9 tap and give it a little rhythm to find the sweet spot 
-- youz goes here but i still dont know
+- as soon as YOUZ hits FRC
+- don't mash j.HS it will not come out -- i 
 
 when buffering the jump use your left hand so all the movements 
 
@@ -203,7 +204,7 @@ can punish a lot from long range since his normals are not disjointed!
 2HS gets blown up becaues they can covert easily from ariel attacks
 there are definitely holes in block strings to mash 5p but they need to be labbed (test)
 has a really nasty round start (6p maybe) that will destroy you if you jump but can be beat with 2HS
-
+if you pushblock overhead it leaves the followup counterable (2HS hits but doesnt give counterhit so test other options. f.s might give you tether?)
 
 ## Bridget
 monster lots of high low and command throw mixups but there are definitely holes in offense.
