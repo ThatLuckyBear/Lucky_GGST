@@ -26,11 +26,12 @@ hold up and forward and S to make it easier but this might make you super jump m
 
 How to do IA.YOUZ combo:
 - Start: c.S is blocked and you are going to go high (youz)
-- delay .5~1f abnd input 9 (jump) as a tap (use left hand!)
--- this will buffer the jump and it will always come out
-- input 236S following the 9 tap and give it a little rhythm to find the sweet spot 
-- as soon as YOUZ hits FRC
-- don't mash j.HS it will not come out -- i 
+- press 9236S with a little rhythm and hold 6 until the 236K
+-- that's tap jump and input YOUZ
+-- the jump is buffered and it will always come out
+- as soon as YOUZ hits FRC use KSHS66
+- it's gotta be like instantly. if you mash you run the risk of accidentally doing j.HS twice so double tap at the most probably.
+- the chain (j.HS > jc > j.S > j.HS > j.236K is really fast just do it all as fast as you can. 
 
 when buffering the jump use your left hand so all the movements 
 
