@@ -20,18 +20,19 @@ Feels safe but isn't
 - second hit of kibari can be interrupted, thrown, super'd and all that
 - the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
 
-## working on c.s > IA.YOUZ
-if c.s is blocked delay the YOUZ to hit the mix
-hold up and forward and S to make it easier but this might make you super jump more
+## working on c.s > IA.YZN
+when can you let go of 6 after hitting YZN? (double check)
+if you miss the FRC then what? (right now I'm doing c.s > 6HS > Kibari)
 
 How to do IA.YOUZ combo:
-- Start: c.S is blocked and you are going to go high (youz)
-- press 9236S with a little rhythm and hold 6 until the 236K
--- that's tap jump and input YOUZ
--- the jump is buffered and it will always come out
-- as soon as YOUZ hits FRC use KSHS66
-- it's gotta be like instantly. if you mash you run the risk of accidentally doing j.HS twice so double tap at the most probably.
-- the chain (j.HS > jc > j.S > j.HS > j.236K is really fast just do it all as fast as you can. 
+- Start: c.S or 5k is blocked and you are going to go high (youz)
+- press 9236S with a little rhythm and HOLD 6
+  - pressing 9 first buffers the jump and only needs to be tapped
+  - you can let go of 6 (forwards) once you hit the j.S (double check)
+- as soon as YOUZ hits input roman cancel with P+K+HS+66
+  - 66 = dash button
+- input HS immediately to get FRC
+- finish the combo: jc > j.S > j.HS > j.236K > c.s > 6HS > KIBARI
 
 when buffering the jump use your left hand so all the movements 
 
