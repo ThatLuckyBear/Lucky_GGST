@@ -26,12 +26,12 @@ if you miss the FRC then what? (right now I'm doing c.s > 6HS > Kibari)
 
 How to do IA.YOUZ combo:
 - Start: c.S or 5k is blocked and you are going to go high (youz)
-- press 9236S with a little rhythm and HOLD 6
+- during blockstun press 9236S with a little rhythm and HOLD 6
   - pressing 9 first buffers the jump and only needs to be tapped
-  - you can let go of 6 (forwards) once you hit the j.S (double check)
+  - you can let go of 6 (forwards) once you hit the j.S>j.HS
 - as soon as YOUZ hits input roman cancel with P+K+HS+66
   - 66 = dash button
-- input HS immediately to get FRC
+- input HS immediately to get fast RRC
 - finish the combo: jc > j.S > j.HS > j.236K > c.s > 6HS > KIBARI
 
 when buffering the jump use your left hand so all the movements 
