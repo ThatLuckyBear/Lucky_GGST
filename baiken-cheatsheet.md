@@ -47,7 +47,6 @@ Roman Cancel
 
 the combo
 - https://streamable.com/w3cclh
-- learn this one first right now I'm still stuck at the FRC but I'll get there
 
 ## Working on Kara Kibari
 5k to kibari after the basic 5p punish combo is possible but very hard
