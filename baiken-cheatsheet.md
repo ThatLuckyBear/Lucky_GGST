@@ -124,6 +124,8 @@ Buttons Breakdown
   
 Neutral
 You can press a lot of buttons 
+- 2S
+  - great at hitting 
 - c.s
   - combos into 5H > Kibari
   - jump cancels on block or hit for schmixin
