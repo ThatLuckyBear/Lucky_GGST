@@ -3,17 +3,25 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Practice These</summary>
-  <li>Roman cancel off a stray hit with jumping S/YOUZ/D</li>
-  <li>wakeup timing??? wakeup super and counter are not working. Strict buffer?</li>
-  <li>anti air 6P (1f) HS.Kibari </li>
+  <li>
   <li>stray hit conversion</li>
-  <li>learn safejump and pressure setups</li>
+  <li>learn YOUZ crossup combo (CH)</li>
+  <li>learn tether setups off throw and hard KD when tethered</li>
   <li>counter hit combos off j.HS, 2S, c.S, and f.S</li>
   <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled?</li>
   <li>when you jump attack with dash speed you end up in throw range</li>
   <li>Jump D wallbounces, learn how to convert this to damage</li>
   <li>jumping S into a combo on the ground for really low hits is essential (whiffing YOUZ)</li>
 
+</details>
+<details>
+  <summary>How to Play</summary>
+  punish with 5p or 5k/c.s/2D
+  whiff punish with f.s and 2S and rarely 2HS
+  end combos with HS.Kibari whenever possible for meaty
+  grounded tatami = meaty HS
+  blocked c.s/5k = scmhixup
+  
 </details>
 
 Feels safe but isn't
