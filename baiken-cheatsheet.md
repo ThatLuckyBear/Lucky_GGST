@@ -4,14 +4,14 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 <details>
   <summary>Practice These</summary>
   <li>
-  <li>stray hit conversion</li>
-  <li>learn YOUZ crossup combo (CH)</li>
-  <li>learn tether setups off throw and hard KD when tethered</li>
-  <li>counter hit combos off j.HS, 2S, c.S, and f.S</li>
-  <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled?</li>
-  <li>when you jump attack with dash speed you end up in throw range</li>
-  <li>Jump D wallbounces, learn how to convert this to damage</li>
-  <li>jumping S into a combo on the ground for really low hits is essential (whiffing YOUZ)</li>
+  <li>stray hit conversion 
+  <li>learn YOUZ crossup combo (CH) 
+  <li>learn tether setups off throw and hard KD when tethered 
+  <li>counter hit combos off j.HS, 2S, c.S, and f.S 
+  <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled? 
+  <li>when you jump attack with dash speed you end up in throw range 
+  <li>Jump D wallbounces, learn how to convert this to damage 
+  <li>jumping S into a combo on the ground for really low hits is essential (whiffing YOUZ) 
 
 </details>
 <details>
