@@ -8,19 +8,17 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>learn YOUZ crossup combo (CH) 
   <li>learn tether setups off throw and hard KD when tethered 
   <li>counter hit combos off j.HS, 2S, c.S, and f.S 
-  <li>sometimes you turn around on a jump cross and you have no idea why or how or if it can be controlled? 
-  <li>when you jump attack with dash speed you end up in throw range 
-  <li>Jump D wallbounces, learn how to convert this to damage 
-  <li>jumping S into a combo on the ground for really low hits is essential (whiffing YOUZ) 
+  <li>learn better RRC combos from kibari for more damaage/corner carry/oki
 
 </details>
 <details>
   <summary>How to Play</summary>
-  punish with 5p or 5k/c.s/2D
-  whiff punish with f.s and 2S and rarely 2HS
-  end combos with HS.Kibari whenever possible for meaty
-  grounded tatami = meaty HS
-  blocked c.s/5k = scmhixup
+  <li>punish with 5p or 5k/c.s/2D
+  <li>whiff punish with f.s and 2S and rarely 2HS
+  <li>end combos with HS.Kibari whenever possible for meaty
+  <li>if 6k>tatami (then) meaty IAD j.HS
+  <li>blocked c.s/5k = scmhixup
+  <li>
   
 </details>
 
