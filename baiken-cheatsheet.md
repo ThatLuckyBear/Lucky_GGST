@@ -252,6 +252,9 @@ if you cause a whiff on the ground slide stab you can't hit with an ariel ino wi
 ino does a really big wind up move in the air that causes a staggar state, can probably 6p on reaction while it charges? (test)
 might be able to 6p all over the place tbh idk.
 can you counterhit the slide stab? (test)
+electricity probably loses to canon and/or counter
+2S is your friend in this matchup it beats a lot of her shit
+6S too probably... hard to say though maybe not.
 
 ## jacko
 can you punish their slide attack? (test)
@@ -294,6 +297,9 @@ even if you
 never jump unless absolutely necessary
 you can react and do a counter when he does meaty garuda usually
 you cannot go under mega fisto with 2HS
+
+# Slayer 
+his super 2 is a grab so uhhh jump? IDK.
 
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 no boilerplate beautiful markdown to steal: 
