@@ -231,6 +231,11 @@ counter is useless on wakeup but good during block strings (alpha blade cannot b
 When does his turn end?
 - when he does X?
 
+# elphelt
+really tight blockstrings
+you can't anti air the hop becaue the grenade will hit you before you hit her
+you can run under and 6P her bullets? (test colors) 
+
 ## faust
 his anti air 6p hits low enough to counterhit 2HS soooo you cant low profile it to punish a bad aa guess
 
