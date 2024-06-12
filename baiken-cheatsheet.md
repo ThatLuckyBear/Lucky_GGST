@@ -22,6 +22,12 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   
 </details>
 
+# universal 
+- on super flash buffer is infinite so input your super or counter and just hold the button
+  - if it doesn't come out then 
+- roman cancel is prioritized over gold burst
+  - this means you can't accidentally gold burst if you press too many buttons while trying to 66rrc
+
 Feels safe but isn't
 - second hit of kibari can be interrupted, thrown, super'd and all that
 - the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
@@ -296,6 +302,7 @@ might be weak to grabs on their pressure (test)
 
 
 # Potempkin
+charge fist is -9 so how to defeat? try 6k!!!
 when he does drive rush you can probably counter the second hit with delay (test)
 always burst after garuda hits or you eat a pot buster
 even if you 
