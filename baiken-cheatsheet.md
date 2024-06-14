@@ -3,7 +3,8 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Practice These</summary>
-  <li>
+  <li>learn dash up 5k > scmhix
+  <li>learn dash up throw schmix
   <li>stray hit conversion 
   <li>learn YOUZ crossup combo (CH) 
   <li>learn tether setups off throw and hard KD when tethered 
@@ -302,7 +303,10 @@ might be weak to grabs on their pressure (test)
 
 
 # Potempkin
-charge fist is -9 so how to defeat? try 6k!!!
+charge fist is -9 so how to defeat? 
+- 5k > IAYOUZ hits (test fRRC combo) can't seem to hit the second jump but idk whtas heepening
+- CANNOT get the c.s after the tatami because of distance it feels... try again tho
+- 
 when he does drive rush you can probably counter the second hit with delay (test)
 always burst after garuda hits or you eat a pot buster
 even if you 
