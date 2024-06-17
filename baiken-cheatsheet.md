@@ -3,6 +3,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Practice These</summary>
+  <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
   <li>learn dash up 5k > scmhix
   <li>learn dash up throw schmix
   <li>stray hit conversion 
@@ -10,6 +11,8 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>learn tether setups off throw and hard KD when tethered 
   <li>counter hit combos off j.HS, 2S, c.S, and f.S 
   <li>learn better RRC combos from kibari for more damaage/corner carry/oki
+  <li>kara kibari
+  <li>more practice of overhead options (dropping a lot)
 
 </details>
 <details>
@@ -28,6 +31,9 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   - if it doesn't come out then 
 - roman cancel is prioritized over gold burst
   - this means you can't accidentally gold burst if you press too many buttons while trying to 66rrc
+- consistent wakeup timing
+  - input buffer is almost non-existent so timing is key
+  - when Baiken is standing her hair flips around 
 
 Feels safe but isn't
 - second hit of kibari can be interrupted, thrown, super'd and all that
@@ -77,7 +83,6 @@ indicators of execution:
 - If you execute the dash cancel but don't do kibari you probably didn't hold HS and/or may have flubbed your half circle input
 - if the 5k doesn't come out you pressed it too quickly
 - if the dash cancel doesn't come out you pressed the dash too early (slight delay after 5k is necessary)
-
 
 ## Working on anti air
 When doing the 6p input the kibari with delay input the QCF twice and press HS on the second.
@@ -306,7 +311,7 @@ might be weak to grabs on their pressure (test)
 charge fist is -9 so how to defeat? 
 - 5k > IAYOUZ hits (test fRRC combo) can't seem to hit the second jump but idk whtas heepening
 - CANNOT get the c.s after the tatami because of distance it feels... try again tho
-- 
+- try dash in 5p or 6k there might be enough frames for a quick microdash?
 when he does drive rush you can probably counter the second hit with delay (test)
 always burst after garuda hits or you eat a pot buster
 even if you 
