@@ -319,6 +319,11 @@ never jump unless absolutely necessary
 you can react and do a counter when he does meaty garuda usually
 you cannot go under mega fisto with 2HS
 
+# Sin Kiske
+mixup king
+lots of chances to counter
+run up throws are really hard to react to
+
 # Slayer 
 his super 2 is a grab so uhhh jump? IDK.
 
