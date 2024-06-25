@@ -52,7 +52,7 @@ How to do IA.YOUZ combo:
 - input HS immediately to get fast RRC
 - finish the combo: jc > j.S > j.HS > j.236K > c.s > 6HS > KIBARI
 
-when buffering the jump use your left hand so all the movements 
+when buffering the jump use your left hand so all the movements without sacrificing mental stack for the buttons pressed
 
 To do 66RRC just press all the buttons.
 - If you're doing an attack the game will always prioritize roman cancel over burst so you won't do it by accident.
