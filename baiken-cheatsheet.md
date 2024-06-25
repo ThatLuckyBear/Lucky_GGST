@@ -40,7 +40,6 @@ Feels safe but isn't
 - the block string including tatami can definitely be super'd and iframe'd through with a super but it seems inconsistent (test)
 
 ## working on c.s > IA.YZN
-when can you let go of 6 after hitting YZN? (double check)
 if you miss the FRC then what? (right now I'm doing c.s > 6HS > Kibari)
 
 How to do IA.YOUZ combo:
