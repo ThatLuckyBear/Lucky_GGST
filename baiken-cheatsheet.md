@@ -304,7 +304,7 @@ may has a big upswing that you CANNOT go under with 2HS (kibari)
 use 5p in scrambles and confirm into pressure
 her buttons are crazy and you cant tell if shes left or right so uhhhh don't guess just press jab or block
 might be weak to grabs on their pressure (test)
-
+her qcbP move is -12 but can be safe at distance, it also beats almost every aerial button (S MIGHT WORK) (TEST)
 
 # Potempkin
 charge fist is -9 so how to defeat? 
