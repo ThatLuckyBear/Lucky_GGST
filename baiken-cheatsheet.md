@@ -13,6 +13,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>learn better RRC combos from kibari for more damaage/corner carry/oki
   <li>kara kibari
   <li>more practice of overhead options (dropping a lot)
+  <li>look into 66BRC inputs (mashing doesnt work)
 
 </details>
 <details>
@@ -180,6 +181,10 @@ Combos:
 f.s is great in neutral and leads to 2HS > Kibari on counter hit
 after tatami safejump is IAD > HS
 after Kibari safejump is IAD > Tatami
+MEATY
+- c.S
+- 5k
+- 
 
 ## Practice:
 - Mixup
