@@ -2,30 +2,21 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Investigate These</summary>
+  <li>burst punish combo
   <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
-  <li>stray hit conversion 
-  <li>learn YOUZ crossup combo (CH) 
+  <li>stray hit conversion (for everything)
   <li>learn tether setups off throw and hard KD when tethered 
-  <li>counter hit combos off j.HS, 2S, c.S, and f.S 
+  <li>best counter hit combos off j.HS, 2S, c.S, and f.S 
   <li>learn better RRC combos from kibari for more damaage/corner carry/oki
-  <li>kara kibari
-  <li>more practice of overhead options (dropping a lot)
   <li>look into 66BRC inputs (mashing doesnt work)
 
 </details>
 
 <details>
   <summary>Practice/Integrate These</summary>
-  <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
-  <li>learn dash up 5k > scmhix
-  <li>learn dash up throw schmix
-  <li>stray hit conversion 
-  <li>learn YOUZ crossup combo (CH) 
-  <li>learn tether setups off throw and hard KD when tethered 
-  <li>counter hit combos off j.HS, 2S, c.S, and f.S 
-  <li>learn better RRC combos from kibari for more damaage/corner carry/oki
-  <li>more practice of overhead options (dropping a lot)
-  <li>look into 66BRC inputs (mashing doesnt work)
+  <li>overhead ladders
+  <li>counterhit combos
+  <li>
 
 </details>
 
@@ -42,7 +33,8 @@ Basically whiff punish when you can but your normals aren't the best. Goal is to
   - 5p is fastest
     - 5p>6K>236K for meaty HS, add 5k>kara.426HH for tatami meaty
   - 2k>5D for when 5p combo whiffs, add super for damage, tatami sometimes can connect, TK.YZN can connect from 5k usually but not for full combo so damage isnt worth
-  - 
+  - c.s is great for most DP and Burst punish routes
+    - c.s>
 
 <details>
   <summary>How to Play</summary>
