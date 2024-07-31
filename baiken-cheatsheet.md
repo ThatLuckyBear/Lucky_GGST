@@ -1,11 +1,8 @@
 https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/edit
 
-
 <details>
-  <summary>Practice These</summary>
+  <summary>Investigate These</summary>
   <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
-  <li>learn dash up 5k > scmhix
-  <li>learn dash up throw schmix
   <li>stray hit conversion 
   <li>learn YOUZ crossup combo (CH) 
   <li>learn tether setups off throw and hard KD when tethered 
@@ -16,6 +13,37 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>look into 66BRC inputs (mashing doesnt work)
 
 </details>
+
+<details>
+  <summary>Practice/Integrate These</summary>
+  <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
+  <li>learn dash up 5k > scmhix
+  <li>learn dash up throw schmix
+  <li>stray hit conversion 
+  <li>learn YOUZ crossup combo (CH) 
+  <li>learn tether setups off throw and hard KD when tethered 
+  <li>counter hit combos off j.HS, 2S, c.S, and f.S 
+  <li>learn better RRC combos from kibari for more damaage/corner carry/oki
+  <li>more practice of overhead options (dropping a lot)
+  <li>look into 66BRC inputs (mashing doesnt work)
+
+</details>
+
+# Play Baiken
+#### Neutral
+Basically whiff punish when you can but your normals aren't the best. Goal is to get a hard knockdown and go to town with schmixups. 
+- Whiff punish
+  - f.s can counterhit into 2H 426HH
+  - 2S can do the same
+  - [unsafe] 2H makes a nice frametrap after f.s but can be punished even with a cancel into tatami
+  - 426HH is a great whiff punish
+  - 214214S can do a lot from full screen and punish bad anti airs on reaction
+- Punish
+  - 5p is fastest
+    - 5p>6K>236K for meaty HS, add 5k>kara.426HH for tatami meaty
+  - 2k>5D for when 5p combo whiffs, add super for damage, tatami sometimes can connect, TK.YZN can connect from 5k usually but not for full combo so damage isnt worth
+  - 
+
 <details>
   <summary>How to Play</summary>
   <li>punish with 5p or 5k/c.s/2D
