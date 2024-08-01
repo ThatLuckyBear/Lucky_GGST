@@ -20,21 +20,68 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 </details>
 
-# Play Baiken
-#### Neutral
-Basically whiff punish when you can but your normals aren't the best. Goal is to get a hard knockdown and go to town with schmixups. 
-- Whiff punish
-  - f.s can counterhit into 2H 426HH
-  - 2S can do the same
-  - [unsafe] 2H makes a nice frametrap after f.s but can be punished even with a cancel into tatami
-  - 426HH is a great whiff punish
-  - 214214S can do a lot from full screen and punish bad anti airs on reaction
-- Punish
+## Play Baiken
+#### Neutral (what do I do with my hands?)
+Stuff needs doing. Neutral is the section with the things you can do when you're not doing combos. Lots of options.
+  - press f.s/2S/2H
+    - 2h less than others but these buttons can stuff lots of offense
+    - counterhits from f.s and 2S confirm into 2H> 246HH
+    - counterhits from 2H confirm into tether
+  - air dash jS/jH
+    - can catch opponents off guard especially from full screen
+    - confirms into jD easily
+    - on block at big distances YZN can be relatively (sometimes fully depending on opponent) safe and opponents rarely expect it so it hits very often
+      - overusing this option gets you obliterated so be aware.
+  - short dash block
+    - make space and see your opponents reaction
+    - this can be punished but it's hard to react to
+    - If your opponent does something silly punish it
+  - short dash/raw f.s
+    - this can score a counterhit but doesn't lead to much otherwise
+    - sometimes opponents try to force their turn after eating one of these so 246HH, f.s can score a counter right after
+    - after some conditioning opponents might try to 6P to beat your followup so 2H becomes devastating
+  - neutral jump/ super jump HS
+    - beats a lot of rushdown players but dash up 6P is common so don't overuse
+    - super jump can throw off timing
+  - dash up 5k
+    - oh no you're in a high low mixup all of a sudden, good luck hon.
+  - BRC
+    - I haven't figured a good way to use this yet but BRC > 2D > tether is true
+#### Opponent Jumps
+  - 6P can counterhit combo into kibari (delay 1 frame)
+  - 2H can tripguard but isn't safe
+  - premptive 2S/HS/D can catch opponents trying to pressure with air dash normals
+#### Opponent Is Punishing f.s or raw Kibari with 6P
+  - 2H will make this seem less like a good idea
+    - counterhit = tether
+  - Whiff punish premptive 6Ps with H.Kibari
+#### Opponent is blocking everything (Can Openers)
+  - throw
+    - free mixup + tether
+    - can be RRC'd
+    - can be set up off a blocked normal (tick throw/dash throw)
+  - raw TK.YZN
+    - unsafe without meter
+    - converts into ladder combos
+#### You block unsafe button/move (punish!)
   - 5p is fastest
-    - 5p>6K>236K for meaty HS, add 5k>kara.426HH for tatami meaty
-  - 2k>5D for when 5p combo whiffs, add super for damage, tatami sometimes can connect, TK.YZN can connect from 5k usually but not for full combo so damage isnt worth
-  - c.s is great for most DP and Burst punish routes
-    - c.s>
+    - 5p>6K>236K~IAD.HS for meaty HS, add 5k>(kara)426HH for tatami meaty
+  - 2k>5D for when 5p combo whiffs, add super for damage, tatami sometimes can connect
+    - TK.YZN can connect from 5k instead of 2D usually but need a special ladder combo
+  - c.s is great for most DP and Burst punish routes especially for a DP that is counterhit
+  - 2H is a consistent setup for DP/Burst punish since it's harder to miss on hard to reach DP's like Sol
+#### Burst Bait successful
+  - Right now dash up c.s > 6H > 246HH is my best combo
+  - better combos exist (reference Baible)
+#### stray hit conversion
+sometimes you just get a hit and convert it into a combo or some small damage. Things get crazy with tether but I don't have that info locked in yet.
+  - [unsafe] raw 2H should be in the mix but used sparingly because it's unsafe on block
+    - even if you cancel into 236K many characters can iframe through this string and get a free counterhit
+  - 426HH can be RRC'd, completed for Oki or cancelled into super (difficult)
+  - GUN can do a lot from full screen
+    - very + so close gap
+    - if you jump and opponent does a bad anti air you can raw punish with GUN
+
 
 <details>
   <summary>How to Play</summary>
