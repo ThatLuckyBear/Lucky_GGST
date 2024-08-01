@@ -16,7 +16,12 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <summary>Practice/Integrate These</summary>
   <li>overhead ladders
   <li>counterhit combos
-  <li>
+  <li>Burst Punish Combo   
+<br><code>c.S 66 c.S 9 j.H j.236K 66 c.S 6H 426HH
+194 damage on Ky
+Burst punish route 
+On heavies ignore microdash c.S
+</code>
 
 </details>
 
