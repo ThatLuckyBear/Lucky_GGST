@@ -8,7 +8,8 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>learn tether setups off throw and hard KD when tethered 
   <li>best counter hit combos off j.HS, 2S, c.S, and f.S 
   <li>learn better RRC combos from kibari for more damaage/corner carry/oki
-  <li>look into 66BRC inputs (mashing doesnt work)
+  <li>look into consistent 66BRC inputs (mashing doesnt work)
+  <li>look into the corner counterhit gun meme combo (in this bunch of videos https://discord.com/channels/810322155694719007/935315007644778556/1268675025641279708)
 
 </details>
 
@@ -16,7 +17,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <summary>Practice/Integrate These</summary>
   <li>overhead ladders
   <li>counterhit combos
-  <li>Burst Punish Combo   
+  <li>Burst/DP Punish Combo   
 <br><code>c.S 66 c.S 9 j.H j.236K 66 c.S 6H 426HH
 194 damage on Ky
 Burst punish route 
