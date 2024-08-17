@@ -2,7 +2,6 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Investigate These</summary>
-  <li>burst punish combo
   <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
   <li>stray hit conversion (for everything)
   <li>learn tether setups off throw and hard KD when tethered 
@@ -23,6 +22,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 Burst punish route 
 On heavies ignore microdash c.S
 </code>
+  <li>
 
 </details>
 
