@@ -17,12 +17,10 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>overhead ladders
   <li>confirm off j.s when near corner  
     <br><code>j.S 66 j.S j.236S c.S 6HS 426HH</code>
+  <li>if you're really far just insert a j.D after the j.S to pick up the combo
   <li>counterhit combos
-  <li>Burst/DP Punish Combo   
-<br><code>c.S 66 c.S 9 j.H j.236K 66 c.S 6H 426HH
-194 damage on Ky
-Burst punish route 
-On heavies ignore microdash c.S
+  <li>Burst/DP Punish Combo   (also works as anti air)
+    <br><code>c.S 66 c.S 9 j.H j.236K 66 c.S 6H 426HH
 </code>
   <li>
 
