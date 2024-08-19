@@ -28,16 +28,22 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
     <li>if you hit the opponent SUPER low dash timing needs to be late, high you can dash whenever
 
 </details>
+
 <details>
-  <summary>Corner control when stuffing jumps</summary>
+ 
+  <summary>
+ Corner control when stuffing jumps
+  </summary>
   There are 3 basic ways of stuffing corner  
-  - jump back Dust  
-  - far neutral jump Dust  
-  - neutral jump S  
+  <li> jump back Dust  
+  <li> far neutral jump Dust  
+  <li> neutral jump S  
   Each has it's own setup but the combo is the similar
-  <br><code>
-    j.s j.D d1 66 j.k yzn c.S 6H 426HH
-  </code>
+    start combo from 
+  <br><code>j.s j.D d1 66 j.k yzn c.S 6H 426HH</code>
+  <br>This is not optimal but it has better consistency for keeping corner instead of side swapping.
+  <br>The higher the j.D the tighter the dash + c.s
+  <br>If you start with j.s and they're touching the wall then the first hit of 426HH will wall splat
 </details>
 
 ## Play Baiken
