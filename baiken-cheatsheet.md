@@ -30,12 +30,12 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 </details>
 <details>
   <summary>Corner control when stuffing jumps</summary>
-  There are 3 basic ways of stuffing corner
-  - jump back Dust
-  - far neutral jump Dust
-  - neutral jump S
+  There are 3 basic ways of stuffing corner  
+  - jump back Dust  
+  - far neutral jump Dust  
+  - neutral jump S  
   Each has it's own setup but the combo is the similar
-  <code>
+  <br><code>
     j.s j.D d1 66 j.k yzn c.S 6H 426HH
   </code>
 </details>
