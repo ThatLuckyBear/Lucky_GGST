@@ -22,7 +22,10 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>Burst/DP Punish Combo   (also works as anti air)
     <br><code>c.S 66 c.S 9 j.H j.236K 66 c.S 6H 426HH
 </code>
-  <li>
+    Troubleshooting:
+    <li>if the j.k misses you dashed too early you can RRC to save the corner
+    <li>timing is tight for c.s so its easy to drop the combo as you land
+    <li>if you hit the opponent SUPER low dash timing needs to be late, high you can dash whenever
 
 </details>
 <details>
