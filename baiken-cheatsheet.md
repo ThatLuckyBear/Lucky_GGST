@@ -74,7 +74,8 @@ Stuff needs doing. Neutral is the section with the things you can do when you're
   - BRC
     - I haven't figured a good way to use this yet but BRC > 2D > tether is true
 #### Opponent Jumps
-  - 6P can counterhit combo into kibari (delay 1 frame)
+  - 6P counterhit combos into s.kibari (rrc into c.s 6H 236k c.s 6H H.kibari for wall break)
+  - 6P combo into kibari (delay 1 frame)
   - 2H can tripguard but isn't safe
   - premptive 2S/HS/D can catch opponents trying to pressure with air dash normals
 #### Opponent Is Punishing f.s or raw Kibari with 6P
