@@ -33,9 +33,12 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 <details>
  
   <summary>
- Corner control when stuffing jumps
+ Science Suff
   </summary>
-  There are 3 basic ways of stuffing corner  
+  This section is for figuring out how to accomplish certain strategies or inputs. Some or all of this could be inaccurate as I'm not exactly aware of all variables.
+  
+  <h3>Stuffing opponents jumping out of corner</h3>
+  when opponents jump or try to air dash out of the corner you can catch them in a few ways. My preffered method is raw j.D but j.S is more reliable.
   <li> jump back Dust  
   <li> far neutral jump Dust  
   <li> neutral jump S  
@@ -45,6 +48,13 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <br>This is not optimal but it has better consistency for keeping corner instead of side swapping.
   <br>The higher the j.D the tighter the dash + c.s
   <br>If you start with j.s and they're touching the wall then the first hit of 426HH will wall splat
+  <h3>Slingshot Youzensan</h3>
+  with 50 meter you can fling Baiken forward using 426HH > 99(updash) > fprc.yzn
+  <li>You need to input the up before the dash button (I do not do this with double tap)
+  <li>You need to prc as soon as the second hit of kibari comes out 
+  <li>Cancel the prc with youzensan and ride the momentum of the kibari across the screen
+  <li>Works with other buttons but YZN crosses up really well.
+  <li>Works on block or whiff but whiffing will likely put you in front of the opponent making it easier to block
 </details>
 
 ## Play Baiken
