@@ -14,6 +14,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Practice/Integrate These</summary>
+  <li>when near corner and you hit 426HH mix up going for tether by using 2H > 426S
   <li>overhead ladders
   <li>confirm off j.s when near corner  
     <br><code>j.S 66 j.S j.236S c.S 6HS 426HH</code>
@@ -108,6 +109,17 @@ sometimes you just get a hit and convert it into a combo or some small damage. T
   - GUN can do a lot from full screen
     - very + so close gap
     - if you jump and opponent does a bad anti air you can raw punish with GUN
+#### Okizame
+  - after 426HH:
+    - meaty IAD tatami
+    - (near corner) 2H > 426S
+  - after 5p 6k 236k punish combo:
+    - iad j.HS (safejump)
+    - 5k kara.426HH + any 426 oki option
+  - after 5k 2D punish (both hits):
+    - ???
+  - after SUPER1
+  - after SUPER2
 
 
 <details>
