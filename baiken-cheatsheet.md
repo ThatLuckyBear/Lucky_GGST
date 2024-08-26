@@ -48,13 +48,24 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <br>This is not optimal but it has better consistency for keeping corner instead of side swapping.
   <br>The higher the j.D the tighter the dash + c.s
   <br>If you start with j.s and they're touching the wall then the first hit of 426HH will wall splat
-  <h3>Slingshot Youzensan</h3>
+  
+<h3>Slingshot Youzensan</h3>
   with 50 meter you can fling Baiken forward using 426HH > 99(updash) > fprc.yzn
+<h2>finalized info</h2>
+
+- plink DASH + HS into P+K to get directional airdash always!
+  <br>
+    <code>○○●  THEN ●○●</code>
+  <br>  
+    <code>○○●  ---> ●○●</code>
+    
+<h2>science (not vetted)</h2> 
   <li>You need to input the up before the dash button (I do not do this with double tap)
   <li>You need to prc as soon as the second hit of kibari comes out 
   <li>Cancel the prc with youzensan and ride the momentum of the kibari across the screen
   <li>Works with other buttons but YZN crosses up really well.
   <li>Works on block or whiff but whiffing will likely put you in front of the opponent making it easier to block
+  <li>You can sling shot with j.h by just Air dash > 66 frc j.h
 </details>
 
 ## Play Baiken
