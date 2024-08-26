@@ -31,13 +31,14 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 </details>
 
 <details>
- 
+<!--_______________________________________________________________________________--> 
   <summary>
  Science Suff
   </summary>
-  This section is for figuring out how to accomplish certain strategies or inputs. Some or all of this could be inaccurate as I'm not exactly aware of all variables.
   
-  <h3>Stuffing opponents jumping out of corner</h3>
+This section is for figuring out how to accomplish certain strategies or inputs. Some or all of this could be inaccurate as I'm not exactly aware of all variables.
+  
+<h3>Stuffing opponents jumping out of corner</h3>
   when opponents jump or try to air dash out of the corner you can catch them in a few ways. My preffered method is raw j.D but j.S is more reliable.
   <li> jump back Dust  
   <li> far neutral jump Dust  
@@ -50,9 +51,19 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <br>If you start with j.s and they're touching the wall then the first hit of 426HH will wall splat
   
 <h3>Slingshot Youzensan</h3>
-  with 50 meter you can fling Baiken forward using 426HH > 99(updash) > fprc.yzn
+  Spending 50 tension to roman cancel 426HH or an airdash can make Baiken fly really quickly. This can cross up with Youzensan or combo with j.S or j.HS<br>
+  Combos:
+  <li>When far from your opponent j.S > YOUZ
+  <li>when mid range j.HS > (combo) 
+  <li>when closer YOUZ (crossup) > combo
 <h2>finalized info</h2>
-
+How to execute from 426HH:
+<li>input kibari (426HH)
+<li>cancel the second hit into an upwards purple roman cancel (99prc)
+<li>cancel the prc into your preffered button
+<br>
+How to execute from IAD:
+  
 - plink DASH + HS into P+K to get directional airdash always!
   <br>
     <code>○○●  THEN ●○●</code>
@@ -67,6 +78,8 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>Works on block or whiff but whiffing will likely put you in front of the opponent making it easier to block
   <li>You can sling shot with j.h by just Air dash > 66 frc j.h
 </details>
+
+<!--_______________________________________________________________________________-->
 
 ## Play Baiken
 #### Neutral (what do I do with my hands?)
