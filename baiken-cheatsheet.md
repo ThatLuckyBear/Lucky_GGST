@@ -62,9 +62,9 @@ How to execute from 426HH:
 <li>cancel the second hit into an upwards purple roman cancel (99prc)
 <li>cancel the prc into your preffered button
 <br>
-How to execute from IAD:
-  
-- plink DASH + HS into P+K to get directional airdash always!
+How to execute roman cancels more precisely:
+- hold whatever direction you need (if not forwards)  
+- plink DASH + HS into P+K to give the dash enough frames to register before the roman cancel enters the chat
   <br>
     <code>○○●  THEN ●○●</code>
   <br>  
@@ -168,13 +168,23 @@ sometimes you just get a hit and convert it into a combo or some small damage. T
 </details>
 
 # universal 
-- on super flash buffer is infinite so input your super or counter and just hold the button
-  - if it doesn't come out then 
+  - on super flash buffer is infinite so input your super or counter and just hold the button
+  - some super flashes are so short you need to be really fast
+  - some are so slow you can wait a while before you decide what to do
+  - keep in mind supers can me roman cancelled before they hit so you might just whiff
+  - this may not be universal
 - roman cancel is prioritized over gold burst
   - this means you can't accidentally gold burst if you press too many buttons while trying to 66rrc
 - consistent wakeup timing
   - input buffer is almost non-existent so timing is key
   - when Baiken is standing her hair flips around 
+How to execute roman cancels more precisely:
+- hold whatever direction you need (if not forwards)  
+- plink DASH + HS into P+K to give the dash enough frames to register before the roman cancel enters the chat
+  <br>
+    <code>○○●  THEN ●○●</code>
+  <br>  
+    <code>○○●  ---> ●○●</code>
 
 Feels safe but isn't
 - second hit of kibari can be interrupted, thrown, super'd and all that
