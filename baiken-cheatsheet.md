@@ -72,7 +72,7 @@ How to execute roman cancels more precisely:
 <h2>Positioning</h2>
 after wall break:
 jump back > slingshot > YOUZ > 2S > 426HH
-IAD > slingshot > YOUZ (opponent flies AWAY) > c.S > HS (wallsplat) > microdash > D (wallbreak)
+IAD > slingshot > YOUZ (opponent flies AWAY) > c.S > 6HS ???? (haven't tested this without instant wallspat on)
 IAD > slingshot > j.HS > c.s > ??? (try 2HS/6HS/raw kibari or kibari S)
 after kibari:
 after 5p > 6k > 236k:
