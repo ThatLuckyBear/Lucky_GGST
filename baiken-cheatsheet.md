@@ -69,6 +69,14 @@ How to execute roman cancels more precisely:
     <code>○○●  THEN ●○●</code>
   <br>  
     <code>○○●  ---> ●○●</code>
+<h2>Positioning</h2>
+after wall break:
+jump back > slingshot > YOUZ > 2S > 426HH
+IAD > slingshot > YOUZ (opponent flies AWAY) > c.S > HS (wallsplat) > microdash > D (wallbreak)
+IAD > slingshot > j.HS > c.s > ??? (try 2HS/6HS/raw kibari or kibari S)
+after kibari:
+after 5p > 6k > 236k:
+
     
 <h2>science (not vetted)</h2> 
   <li>You need to input the up before the dash button (I do not do this with double tap)
