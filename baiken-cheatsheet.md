@@ -2,12 +2,13 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Investigate These</summary>
-  <li>better confirm off j.s when near corner (dashing through instead of catching wall boubnce losing corner + conmbo)
+  <li>
+  <li>how to properly dashblock
+  <li>does [5D] land in the same spot as wallbreak?
   <li>stray hit conversion (for everything)
   <li>learn tether setups off throw and hard KD when tethered 
   <li>best counter hit combos off j.HS, 2S, c.S, and f.S 
   <li>learn better RRC combos from kibari for more damaage/corner carry/oki
-  <li>look into consistent 66BRC inputs (mashing doesnt work)
   <li>look into the corner counterhit gun meme combo (in this bunch of videos https://discord.com/channels/810322155694719007/935315007644778556/1268675025641279708)
 
 </details>
