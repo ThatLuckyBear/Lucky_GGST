@@ -2,7 +2,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 <details>
   <summary>Investigate These</summary>
-  <li>FDC youzensan (see video downloaded)
+  <li>FDC youzensan (https://drive.google.com/file/d/1gFjkU0gFWg0d-CNbxVNxKI6K_OhXjnSi/view?usp=drive_link)
   <li>how to properly dashblock
   <li>does [5D] land in the same spot as wallbreak?
   <li>stray hit conversion (for everything)
