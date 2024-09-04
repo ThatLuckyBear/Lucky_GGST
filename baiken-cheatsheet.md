@@ -206,6 +206,7 @@ How to do IA.YOUZ combo:
 - Start: c.S or 5k is blocked and you are going to go high (youz)
 - during blockstun press 9236S with a little rhythm and HOLD 6
   - pressing 9 first buffers the jump and only needs to be tapped
+    - If you only press UP (8) you won't go forwards so tap up AND right during the hit/blockstun
   - you can let go of 6 (forwards) once you hit the j.S>j.HS
 - as soon as YOUZ hits input roman cancel with P+K+HS+66
   - 66 = dash button
