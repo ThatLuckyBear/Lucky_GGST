@@ -500,6 +500,10 @@ after 5p > 6k > 236k:
   <li>You can sling shot with j.h by just Air dash > 66 frc j.h
 </details>
 
+<h2>counterhit DP punish</h2>
+[CH]6H 426S c.s 6H 236K c.s 6H 236K 167DMG on ky
+[CH]6H 426S c.s 6H 236K c.s 6h 426HH 
+[CH]c.s 66 c.s 9.HS j.236K c.s 6H 426HH (not reliable because of distance needed for close slash!)
 <!--_______________________________________________________________________________-->
 
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
