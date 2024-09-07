@@ -23,6 +23,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
   <li>counterhit combos
   <li>Burst/DP Punish Combo  (also works as anti air)
     <br><code>c.S 66 c.S 9 j.H j.236K 66 c.S 6H 426HH
+    <p>this works but is hard to get consistently outside of corner. Will wall break from round start so definitely worth having in the pocket. The last 66 seems unecessary since it's way too tight and it's better to just do the j.236K tighter by having a faster jump cancel. </p>
 </code>
     Troubleshooting:
     <li>if the j.k misses you dashed too early you can RRC to save the corner
