@@ -32,69 +32,8 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 </details>
 
-<details>
-<!--_______________________________________________________________________________--> 
-  <summary>
- Science Suff
-  </summary>
-  
-This section is for figuring out how to accomplish certain strategies or inputs. Some or all of this could be inaccurate as I'm not exactly aware of all variables.
-  
-<h3>Stuffing opponents jumping out of corner</h3>
-  when opponents jump or try to air dash out of the corner you can catch them in a few ways. My preffered method is raw j.D but j.S is more reliable.
-  <li> jump back Dust  
-  <li> far neutral jump Dust  
-  <li> neutral jump S  
-  Each has it's own setup but the combo is the similar
-    start combo from 
-  <br><code>j.s j.D d1 66 j.k yzn c.S 6H 426HH</code>
-  <br>This is not optimal but it has better consistency for keeping corner instead of side swapping.
-  <br>The higher the j.D the tighter the dash + c.s
-  <br>If you start with j.s and they're touching the wall then the first hit of 426HH will wall splat
-  
-<h3>Slingshot Youzensan</h3>
-  Spending 50 tension to roman cancel 426HH or an airdash can make Baiken fly really quickly. This can cross up with Youzensan or combo with j.S or j.HS<br>
-  Combos:
-  <li>When far from your opponent j.S > YOUZ
-  <li>when mid range j.HS > (combo) 
-  <li>when closer YOUZ (crossup) > combo
 
-<h2>finalized info</h2>
-How to execute from 426HH:
-<li>input kibari (426HH)
-<li>cancel the second hit into an upwards purple roman cancel (99prc)
-<li>cancel the prc into your preffered button
-<br>
-How to execute roman cancels more precisely:
-- hold whatever direction you need (if not forwards)  
-- plink DASH + HS into P+K to give the dash enough frames to register before the roman cancel enters the chat
-  <br>
-    <code>○○●  THEN ●○●</code>
-  <br>  
-    <code>○○●  ---> ●○●</code>
-<p>This assumes the button setup is:</p>
-    <code>p S HS</code>
-  <br>
-    <code>k D 66</code>
-<h2>Positioning</h2>
-after wall break:
-jump back > slingshot > YOUZ > 2S > 426HH
-IAD > slingshot > YOUZ (opponent flies AWAY) > c.S > 6HS ???? (haven't tested this without instant wallspat on)
-IAD > slingshot > j.HS > c.s > ??? (try 2HS/6HS/raw kibari or kibari S)
-after kibari:
-after 5p > 6k > 236k:
 
-    
-<h2>science (not vetted)</h2> 
-  <li>You need to input the up before the dash button (I do not do this with double tap)
-  <li>You need to prc as soon as the second hit of kibari comes out 
-  <li>Cancel the prc with youzensan and ride the momentum of the kibari across the screen
-  <li>Works with other buttons but YZN crosses up really well.
-  <li>Works on block or whiff but whiffing will likely put you in front of the opponent making it easier to block
-  <li>You can sling shot with j.h by just Air dash > 66 frc j.h
-</details>
-
-<!--_______________________________________________________________________________-->
 
 ## Play Baiken
 #### Neutral (what do I do with my hands?)
@@ -496,6 +435,70 @@ run up throws are really hard to react to
 
 # Slayer 
 his super 2 is a grab so uhhh jump? IDK.
+
+<!--_______________________________________________________________________________--> 
+<details>
+  <summary>
+ Science Suff
+  </summary>
+  
+This section is for figuring out how to accomplish certain strategies or inputs. Some or all of this could be inaccurate as I'm not exactly aware of all variables.
+  
+<h3>Stuffing opponents jumping out of corner</h3>
+  when opponents jump or try to air dash out of the corner you can catch them in a few ways. My preffered method is raw j.D but j.S is more reliable.
+  <li> jump back Dust  
+  <li> far neutral jump Dust  
+  <li> neutral jump S  
+  Each has it's own setup but the combo is the similar
+    start combo from 
+  <br><code>j.s j.D d1 66 j.k yzn c.S 6H 426HH</code>
+  <br>This is not optimal but it has better consistency for keeping corner instead of side swapping.
+  <br>The higher the j.D the tighter the dash + c.s
+  <br>If you start with j.s and they're touching the wall then the first hit of 426HH will wall splat
+  
+<h3>Slingshot Youzensan</h3>
+  Spending 50 tension to roman cancel 426HH or an airdash can make Baiken fly really quickly. This can cross up with Youzensan or combo with j.S or j.HS<br>
+  Combos:
+  <li>When far from your opponent j.S > YOUZ
+  <li>when mid range j.HS > (combo) 
+  <li>when closer YOUZ (crossup) > combo
+
+<h2>finalized info</h2>
+How to execute from 426HH:
+<li>input kibari (426HH)
+<li>cancel the second hit into an upwards purple roman cancel (99prc)
+<li>cancel the prc into your preffered button
+<br>
+How to execute roman cancels more precisely:
+- hold whatever direction you need (if not forwards)  
+- plink DASH + HS into P+K to give the dash enough frames to register before the roman cancel enters the chat
+  <br>
+    <code>○○●  THEN ●○●</code>
+  <br>  
+    <code>○○●  ---> ●○●</code>
+<p>This assumes the button setup is:</p>
+    <code>p S HS</code>
+  <br>
+    <code>k D 66</code>
+<h2>Positioning</h2>
+after wall break:
+jump back > slingshot > YOUZ > 2S > 426HH
+IAD > slingshot > YOUZ (opponent flies AWAY) > c.S > 6HS ???? (haven't tested this without instant wallspat on)
+IAD > slingshot > j.HS > c.s > ??? (try 2HS/6HS/raw kibari or kibari S)
+after kibari:
+after 5p > 6k > 236k:
+
+    
+<h2>science (not vetted)</h2> 
+  <li>You need to input the up before the dash button (I do not do this with double tap)
+  <li>You need to prc as soon as the second hit of kibari comes out 
+  <li>Cancel the prc with youzensan and ride the momentum of the kibari across the screen
+  <li>Works with other buttons but YZN crosses up really well.
+  <li>Works on block or whiff but whiffing will likely put you in front of the opponent making it easier to block
+  <li>You can sling shot with j.h by just Air dash > 66 frc j.h
+</details>
+
+<!--_______________________________________________________________________________-->
 
 markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 no boilerplate beautiful markdown to steal: 
