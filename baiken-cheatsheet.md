@@ -57,6 +57,7 @@ This section is for figuring out how to accomplish certain strategies or inputs.
   <li>When far from your opponent j.S > YOUZ
   <li>when mid range j.HS > (combo) 
   <li>when closer YOUZ (crossup) > combo
+
 <h2>finalized info</h2>
 How to execute from 426HH:
 <li>input kibari (426HH)
