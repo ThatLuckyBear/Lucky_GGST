@@ -47,7 +47,7 @@ Stuff needs doing. Neutral is the section with the things you can do when you're
     - confirms into jD easily
     - on block at big distances YZN can be relatively (sometimes fully depending on opponent) safe and opponents rarely expect it so it hits very often
       - overusing this option gets you obliterated so be aware.
-  - short dash block
+  - dash block (FD to force block faster for safety)
     - make space and see your opponents reaction
     - this can be punished but it's hard to react to
     - If your opponent does something silly punish it
@@ -67,6 +67,8 @@ Stuff needs doing. Neutral is the section with the things you can do when you're
   - 6P combo into kibari (delay 1 frame)
   - 2H can tripguard but isn't safe
   - premptive 2S/HS/D can catch opponents trying to pressure with air dash normals
+  - c.S if opponent is going crossup and you're sure they're not pressing buttons
+  - c.S also works on weird jump ins and backdash
 #### Opponent Is Punishing f.s or raw Kibari with 6P
   - 2H will make this seem less like a good idea
     - counterhit = tether
