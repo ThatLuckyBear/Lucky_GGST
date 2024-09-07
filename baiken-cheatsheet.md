@@ -71,6 +71,10 @@ How to execute roman cancels more precisely:
     <code>○○●  THEN ●○●</code>
   <br>  
     <code>○○●  ---> ●○●</code>
+<p>This assumes the button setup is:</p>
+    <code>p S HS</code>
+  <br>
+    <code>k D 66</code>
 <h2>Positioning</h2>
 after wall break:
 jump back > slingshot > YOUZ > 2S > 426HH
