@@ -35,6 +35,19 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 </details>
 
+<details>
+ <summary>Current Toolkit</summary>
+ 
+<h4>Schmixup on blocking opponent with:</h4>
+   <li>5k/c.s > YZN > Ladder
+   <li>5k/c.s > dash > throw
+   <li>5k/c.s > 5D > tatami
+   <li>5k/c.s > c.s (frame trap beats throw and buttons)
+   <li>5k/c.s > block
+<h4>6.p anti-air combos</h4>
+ <li>[CH]6.p > 426S > RRC 
+ <li>6.p > d1 > 426HH
+</details>
 
 
 
