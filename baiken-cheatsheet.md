@@ -1,5 +1,8 @@
 https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/edit
 
+9/8 -- hit celestial
+9/9 -- integrating IABD tatami to gameplay
+
 <details>
   <summary>Investigate These</summary>
   <li>FDC youzensan (https://drive.google.com/file/d/1gFjkU0gFWg0d-CNbxVNxKI6K_OhXjnSi/view?usp=drive_link)
