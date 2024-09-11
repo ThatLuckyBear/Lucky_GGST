@@ -1,4 +1,5 @@
 https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/edit
+[Fighting Game Glossary](https://glossary.infil.net/) -- terms and explanations of mechanics for basically every game
 
 9/8 -- hit celestial
 9/9 -- integrating IABD tatami to gameplay
