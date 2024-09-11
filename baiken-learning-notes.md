@@ -168,17 +168,20 @@ if you miss the FRC then what? (right now I'm doing c.s > 6HS > Kibari)
 
 ## How to do IABD Tatami
 this is a great way to keep your opponents out. Loses to air dash attacks but those can be easily 6p'd or air to air'd with j.s/j.HS/j.D/j.p (depending on opponent and read)
+- 2 > 7 + 66 236K
+
 - press 2 and within a few frames...
 - press 7 + 66 at the same time
   - 7 is jump back, and dash macro is basically required (not actually but it's not fun to do without it)
 - input tatami (236k) immediately
   - cancel timing -- very tight but not difficult
 Troubleshooting
+- If you're using plink timing for the jump (plink 2 into 7) I find it more consistent to plink 66 from 7.
 - you need to superjump so listen for the "swoosh"
-- tatami will start but will not come out before you land if you don't get the super jump
+- tatami will start but will not come out before you land if you don't get the super jump OR input the tatami too slowly.
 - if you get a j.k then your tatami input was either sloppy or non-existent, check your inputs
 - it's FAST but you have a bit of time after pressing 2 before pressing 7 take a tiny beat
-- easy to do if you find a good rhythm since it doesn't need any delayed timing (press buttons on the beat) 
+- easy to do if you find a good rhythm since it doesn't need any delayed timing (press buttons on the beat)
 
 ## How to do IA.YOUZ combo:
 - Start: c.S or 5k is blocked and you are going to go high (youz)
