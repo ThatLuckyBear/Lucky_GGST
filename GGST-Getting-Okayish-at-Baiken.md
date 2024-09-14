@@ -21,6 +21,11 @@ I learn fighting games by taking thorough notes while playing, engaging with the
 this list will be likely not be in the final draft since it's more for my personal use. Here's all the progress I made. This is following my notes.
 + 3/27 Started playing and learned some basic combos and approach tools.
 + 3/28 I was using j.s > Youzensan to great effect and was already trying to learn a high low mix but I couldn't do it. I was also constantly dropping a combo that didn't work. I was also looking at my buttons and learning which were fastest (5p) and what might not be smart to use consistently (2H). I remember I was using Dustloop at this point and I was unsure if the information was accurate because I couldn't do most of the combos and didn't have the skills to troubleshoot. Punish combo in my notes: c.S > 5H > 41236H~H IF DASHING = c.s > f.s > 5h > 41236~H
++ 4/1-4/5 I found some Reddit threads and learned I could 236P for a 1 frame counter. Around now I started looking into frame traps, poke conversions, anti air combos/crossup answers, and I put the "mixup" at the top of my list. I wanted to learn rock paper scissors since I knew it'd give me an edge. I added the following combos to my arsenal and started practicing:
+  + 236k > 2S > kibari 
+  + c.S > 2H > Tatami > 2S > Kibari || I dropped this CONSTANTLY and would routinely try to do it off f.s which is actually impossible.
+  + [CH] f.S > 2H > Kibari
+  + 
 + 
 
 
