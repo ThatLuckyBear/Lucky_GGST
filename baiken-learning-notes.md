@@ -3,6 +3,7 @@ https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/
 
 9/8 -- hit celestial
 9/9 -- integrating IABD tatami to gameplay
+9/14 -- working on raw TK.YZN and cleaning inputs for jump cancel 5k/c.s into YZN + ladder warmups (6 sets results: SOL L2-1 | SOL W2-1 | NAGO W2-1 | NAGO L2-1 | RAM L2-1 | SLA W2-1)
 
 <details>
   <summary>Investigate These</summary>
