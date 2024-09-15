@@ -484,8 +484,8 @@ This section is for figuring out how to accomplish certain strategies or inputs.
 
 Run up YZN 
 hold 66 and 2.
-when you're in position press 7 + S with slight delay
-holding 2 is essential because uhhh yeag
+when you're in position press 6 > 7 + S (roll inputs from 2, to forwards, to upforwards then press S - plink timing) 
+holding 2 stops superjump coming out.
 
 Running FD just hold two buttons and then press dash. Pres back again when its time.
   
