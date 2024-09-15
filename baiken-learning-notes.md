@@ -1,6 +1,7 @@
 https://docs.google.com/document/d/1wI1xy8EfEdy6A2Fm0Z1XnvNFF6jZaWWD2tSUfRYgezM/edit
 [Fighting Game Glossary](https://glossary.infil.net/) -- terms and explanations of mechanics for basically every game
 
+9/15 -- Playing 5 sets (+ maybe a salty runback) MIL LLW | KY LWL | SIN LLL | POT LLL | AXL WLL | MAY LLW (lost 5 out of 6 sets)
 9/8 -- hit celestial
 9/9 -- integrating IABD tatami to gameplay
 9/14 -- working on raw TK.YZN and cleaning inputs for jump cancel 5k/c.s into YZN + ladder warmups (6 sets results: SOL L2-1 | SOL W2-1 | NAGO W2-1 | NAGO L2-1 | RAM L2-1 | SLA W2-1)
