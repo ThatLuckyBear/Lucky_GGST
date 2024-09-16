@@ -483,11 +483,18 @@ his super 2 is a grab so uhhh jump? IDK.
 This section is for figuring out how to accomplish certain strategies or inputs. Some or all of this could be inaccurate as I'm not exactly aware of all variables.
 
 Run up YZN 
-hold 66 and 2.
-when you're in position press 6 > 7 + S (roll inputs from 2, to forwards, to upforwards then press S - plink timing) 
-holding 2 stops superjump coming out.
+Concept: Run towards opponent and raw YZN before they can react. RRC into ladder or don't I don't care.
+Inputs: [66] > [2] > [6] (66)(2) > 7 > 236S 
+press and hold 66 then immediately hold 2
+When it's time to YZN hold 6 and release 66 and 2
+with plink timing (without releasing 6) press 7 and then S 
+Troubleshooting
+if you don't jump make sure your 66 input was off before inputting 7, the dash button will not allow jumping
+if you stop and jump without drifting forwards like you're supposed to make sure you're holding 6 after letting go of 66, forwards keeps the dash going but allows for the jump input.
+if your YZN doesn't come out you might have pressed 7 too quickly after switching to 6. There needs to be a small gap for the game to register the forward before you can YZN.
 
-Running FD just hold two buttons and then press dash. Pres back again when its time.
+Running FD
+just hold two buttons and then press dash. Pres back again when its time.
   
 <h3>Stuffing opponents jumping out of corner</h3>
   when opponents jump or try to air dash out of the corner you can catch them in a few ways. My preffered method is raw j.D but j.S is more reliable.
