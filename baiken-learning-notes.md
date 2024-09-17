@@ -489,9 +489,11 @@ press and hold 66 then immediately hold 2
 When it's time to YZN hold 6 and release 66 and 2
 with plink timing (without releasing 6) press 7 and then S 
 Troubleshooting
+You don't have to hold 7 but you should hold 6 sooo 0
 if you don't jump make sure your 66 input was off before inputting 7, the dash button will not allow jumping
 if you stop and jump without drifting forwards like you're supposed to make sure you're holding 6 after letting go of 66, forwards keeps the dash going but allows for the jump input.
 if your YZN doesn't come out you might have pressed 7 too quickly after switching to 6. There needs to be a small gap for the game to register the forward before you can YZN.
+you might also be doing it TOO FAST. Slow down cowboy it's alright, theres time. 
 
 Running FD
 just hold two buttons and then press dash. Pres back again when its time.
