@@ -487,7 +487,7 @@ Concept: Run towards opponent and raw YZN before they can react. RRC into ladder
 Inputs: [66] > [2] > [6] (66)(2) > 7 > 236S 
 press and hold 66 then immediately hold 2
 When it's time to YZN hold 6 and release 66 and 2
-with plink timing (without releasing 6) press 7 and then S 
+quickly (without releasing 6) press 7 and then S (plink timing is a bit too fast)
 Troubleshooting
 You don't have to hold 7 but you should hold 6 sooo 0
 if you don't jump make sure your 66 input was off before inputting 7, the dash button will not allow jumping
